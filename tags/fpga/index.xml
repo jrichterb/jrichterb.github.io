@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FPGA on Jan Richter-Brockmann</title>
-    <link>https://example.org/tags/fpga/</link>
+    <link>https://jrichterb.github.io/tags/fpga/</link>
     <description>Recent content in FPGA on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/fpga/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jrichterb.github.io/tags/fpga/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gadget-based Masking of Streamlined NTRU Prime Decapsulation in Hardware.</title>
-      <link>https://example.org/publications/masked-ntrup/</link>
+      <link>https://jrichterb.github.io/publications/masked-ntrup/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/masked-ntrup/</guid>
+      <guid>https://jrichterb.github.io/publications/masked-ntrup/</guid>
       <description>&lt;p&gt;Streamlined NTRU Prime is a lattice-based Key Encapsulation Mechanism (KEM) that is, together with X25519, the default algorithm in OpenSSH 9. Based on lattice assumptions, it is assumed to be secure also against attackers with access to&amp;lt; large-scale quantum computers. While Post-Quantum Cryptography (PQC) schemes have been subject to extensive research in recent years, challenges remain with respect to protection mechanisms against attackers that have additional side-channel information, such as the power consumption of a device processing secret data. As a countermeasure to such attacks, masking has been shown to be a promising and effective approach. For public-key schemes, including any recent PQC schemes, usually, a mixture of Boolean and arithmetic techniques is applied on an algorithmic level. Our generic hardware implementation of Streamlined NTRU Prime decapsulation, however, follows an idea that until now was assumed to be solely applicable efficiently to symmetric cryptography: gadget-based masking. The hardware design is transformed into a secure implementation by replacing each gate with a composable secure gadget that operates on uniform random shares of secret values. In our work, we show the feasibility of applying this approach also to PQC schemes and present the first Public-Key Cryptography (PKC) – pre- and post-quantum – implementation masked with the gadget-based approach considering several trade-offs and design choices. By the nature of gadget-based masking, the implementation can be instantiated at arbitrary masking order. We synthesize our implementation both for Artix-7 Field-Programmable Gate Arrays (FPGAs) and 45 nm Application-Specific Integrated Circuits (ASICs), yielding practically feasible results regarding the area, randomness requirement, and latency. We verify the side-channel security of our implementation using formal verification on the one hand, and practically using Test Vector Leakage Assessment (TVLA) on the other. Finally, we also analyze the applicability of our concept to Kyber and Dilithium, which will be standardized by the National Institute of Standards and Technology (NIST).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Secure and Efficient Hardware Implementations for Modern Cryptography.</title>
-      <link>https://example.org/publications/dissertation/</link>
+      <link>https://jrichterb.github.io/publications/dissertation/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/dissertation/</guid>
+      <guid>https://jrichterb.github.io/publications/dissertation/</guid>
       <description>&lt;p&gt;In our contemporary life, digital infrastructure plays a crucial role and it is almost impossible&#xA;to imagine a modern world without the advantages provided by highly advanced technology.&#xA;Due to the influence of this infrastructure on so many areas of our life, robust, reliable, and&#xA;secure systems are necessary. Moreover, this includes performing any kind of communication&#xA;encrypted avoiding misuse of information and protecting data integrity. Creating an environ-&#xA;ment of encrypted communication became even more important over the last years since many&#xA;systems are connected including a huge amount of embedded devices. Therefore, underlying&#xA;cryptographic algorithms need to be implemented on highly diverse platforms including mi-&#xA;crocontrollers, Field-Programmable Gate Arrays (FPGAs), and Application-Specific Integrated&#xA;Circuits (ASICs).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Racing BIKE: Improved Polynomial Multiplication and Inversion in Hardware.</title>
-      <link>https://example.org/publications/racing-bike/</link>
+      <link>https://jrichterb.github.io/publications/racing-bike/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/racing-bike/</guid>
+      <guid>https://jrichterb.github.io/publications/racing-bike/</guid>
       <description>&lt;p&gt;BIKE is a Key Encapsulation Mechanism selected as an alternate candidate in NIST’s PQC standardization process, in which performance plays a signiﬁcant role in the third round. This paper presents FPGA implementations of BIKE with the best area-time performance reported in literature. We optimize two key arithmetic operations, which are the sparse polynomial multiplication and the polynomial inversion. Our sparse multiplier achieves time-constancy for sparse polynomials of indeﬁnite Hamming weight used in BIKE’s encapsulation. The polynomial inversion is based on the extended Euclidean algorithm, which is unprecedented in current BIKE implementations. Our optimized design results in a 5.5 times faster key generation compared to previous implementations based on Fermat’s little theorem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Folding BIKE: Scalable Hardware Implementation for Reconfigurable Devices.</title>
-      <link>https://example.org/publications/folding-bike/</link>
+      <link>https://jrichterb.github.io/publications/folding-bike/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/folding-bike/</guid>
+      <guid>https://jrichterb.github.io/publications/folding-bike/</guid>
       <description>&lt;p&gt;Contemporary digital infrastructures and systems use and trust PKC to exchange keys over insecure communication channels. With the development and progress in the research field of quantum computers, well established schemes like RSA and ECC are more and more threatened. The urgent demand to find and standardize new schemes - which are secure in a post-quantum world - was also realized by the NIST which announced a PQC Standardization Project in 2017. Recently, the round three candidates were announced and one of the alternate candidates is the KEM scheme BIKE.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Improved Side-Channel Resistance by Dynamic Fault-Injection Countermeasures.</title>
-      <link>https://example.org/publications/dynamic-codes/</link>
+      <link>https://jrichterb.github.io/publications/dynamic-codes/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/dynamic-codes/</guid>
+      <guid>https://jrichterb.github.io/publications/dynamic-codes/</guid>
       <description>&lt;p&gt;Side-channel analysis and fault-injection attacks are known as serious threats to cryptographic hardware implementations and the combined protection against both is currently an open line of research. A promising countermeasure with considerable implementation overhead appears to be a mix of first-order secure Threshold Implementations and linear Error-Correcting Codes.&lt;/p&gt;&#xA;&lt;p&gt;In this paper we employ for the first time the inherent structure of non-systematic codes as fault countermeasure which dynamically mutates the applied generator matrices to achieve a higher-order side-channel and fault-protected design. As a case study, we apply our scheme to the PRESENT block cipher that do not show any higher-order side-channel leakage after measuring 150 million power traces.&lt;/p&gt;</description>
     </item>
   </channel>

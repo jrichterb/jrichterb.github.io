@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Countermeasures on Jan Richter-Brockmann</title>
-    <link>https://example.org/tags/countermeasures/</link>
+    <link>https://jrichterb.github.io/tags/countermeasures/</link>
     <description>Recent content in Countermeasures on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/countermeasures/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jrichterb.github.io/tags/countermeasures/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VERICA - Verification of Combined Attacks: Automated formal verification of security against simultaneous information leakage and tampering.</title>
-      <link>https://example.org/publications/verica/</link>
+      <link>https://jrichterb.github.io/publications/verica/</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/verica/</guid>
+      <guid>https://jrichterb.github.io/publications/verica/</guid>
       <description>&lt;p&gt;Physical attacks, including passive Side-Channel Analysis and active Fault Injection Analysis, are considered among the most powerful threats against physical cryptographic implementations. These attacks are well known and research provides many specialized countermeasures to protect cryptographic implementations against them. Still, only a limited number of combined countermeasures, i.e., countermeasures that protect implementations against multiple attacks simultaneously, were proposed in the past. Due to increasing complexity and reciprocal effects, design of efficient and reliable combined countermeasures requires longstanding expertise in hardware design and security. With the help of formal security specifications and adversary models, automated verification can streamline development cycles, increase quality, and facilitate development of robust cryptographic implementations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FIVER - Robust Verification of Countermeasures against Fault Injections.</title>
-      <link>https://example.org/publications/fiver/</link>
+      <link>https://jrichterb.github.io/publications/fiver/</link>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/fiver/</guid>
+      <guid>https://jrichterb.github.io/publications/fiver/</guid>
       <description>&lt;p&gt;Fault Injection Analysis is seen as a powerful attack against implementations of cryptographic algorithms. Over the last two decades, researchers proposed a plethora of countermeasures to secure such implementations. However, the design process and implementation are still error-prone, complex, and manual tasks which require long-standing experience in hardware design and physical security. Moreover, the validation of the claimed security is often only done by empirical testing in a very late stage of the design process. To prevent such empirical testing strategies, approaches based on formal verification are applied instead providing the designer early feedback.&lt;/p&gt;</description>
     </item>
   </channel>

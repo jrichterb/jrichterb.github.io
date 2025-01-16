@@ -2,293 +2,297 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/publications/</loc>
+    <loc>https://jrichterb.github.io/publications/</loc>
     <lastmod>2020-01-07T16:47:30+00:00</lastmod>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://example.org/publications/random-combined-model/</loc>
+    <loc>https://jrichterb.github.io/publications/random-combined-model/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/fomsess/</loc>
+    <loc>https://jrichterb.github.io/publications/fomsess/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/cti/</loc>
+    <loc>https://jrichterb.github.io/publications/cti/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/masked-ntrup/</loc>
+    <loc>https://jrichterb.github.io/publications/masked-ntrup/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/cpc/</loc>
+    <loc>https://jrichterb.github.io/publications/cpc/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/steve/</loc>
+    <loc>https://jrichterb.github.io/publications/steve/</loc>
     <lastmod>2023-09-04T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/convolve-01/</loc>
+    <loc>https://jrichterb.github.io/publications/convolve-01/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/fixed-weight-poly-sampling/</loc>
+    <loc>https://jrichterb.github.io/publications/fixed-weight-poly-sampling/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/fault-model/</loc>
+    <loc>https://jrichterb.github.io/publications/fault-model/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/dissertation/</loc>
+    <loc>https://jrichterb.github.io/publications/dissertation/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/cini-minis/</loc>
+    <loc>https://jrichterb.github.io/publications/cini-minis/</loc>
     <lastmod>2022-11-07T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/bike/</loc>
+    <loc>https://jrichterb.github.io/publications/bike/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/poly-inversion/</loc>
+    <loc>https://jrichterb.github.io/publications/poly-inversion/</loc>
     <lastmod>2022-09-28T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/racing-bike/</loc>
+    <loc>https://jrichterb.github.io/publications/racing-bike/</loc>
     <lastmod>2022-09-18T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/verica/</loc>
+    <loc>https://jrichterb.github.io/publications/verica/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/folding-bike/</loc>
+    <loc>https://jrichterb.github.io/publications/folding-bike/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/fiver/</loc>
+    <loc>https://jrichterb.github.io/publications/fiver/</loc>
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/deep-learning/</loc>
+    <loc>https://jrichterb.github.io/publications/deep-learning/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/orthogonal-codes/</loc>
+    <loc>https://jrichterb.github.io/publications/orthogonal-codes/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/dynamic-codes/</loc>
+    <loc>https://jrichterb.github.io/publications/dynamic-codes/</loc>
     <lastmod>2020-07-06T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/publications/ecm/</loc>
+    <loc>https://jrichterb.github.io/publications/ecm/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://example.org/blog/</loc>
+    <loc>https://jrichterb.github.io/blog/</loc>
     <lastmod>2025-01-13T20:04:10+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/combined-analysis/</loc>
+    <loc>https://jrichterb.github.io/</loc>
+    <lastmod>2025-01-10T07:57:25+01:00</lastmod>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://jrichterb.github.io/tags/combined-analysis/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/ironmask/</loc>
+    <loc>https://jrichterb.github.io/tags/ironmask/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/physical-security/</loc>
+    <loc>https://jrichterb.github.io/tags/physical-security/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/random-fault-model/</loc>
+    <loc>https://jrichterb.github.io/tags/random-fault-model/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/random-probing-model/</loc>
+    <loc>https://jrichterb.github.io/tags/random-probing-model/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://jrichterb.github.io/tags/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/verica/</loc>
+    <loc>https://jrichterb.github.io/tags/verica/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/bdd/</loc>
+    <loc>https://jrichterb.github.io/tags/bdd/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/computer-aided-verification/</loc>
+    <loc>https://jrichterb.github.io/tags/computer-aided-verification/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/fault-injection-analysis/</loc>
+    <loc>https://jrichterb.github.io/tags/fault-injection-analysis/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/side-channel-analysis/</loc>
+    <loc>https://jrichterb.github.io/tags/side-channel-analysis/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/asic/</loc>
+    <loc>https://jrichterb.github.io/tags/asic/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/consolidating-masking-schemes/</loc>
+    <loc>https://jrichterb.github.io/tags/consolidating-masking-schemes/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/fpga/</loc>
+    <loc>https://jrichterb.github.io/tags/fpga/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/gadget-based-masking/</loc>
+    <loc>https://jrichterb.github.io/tags/gadget-based-masking/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/hardware-security/</loc>
+    <loc>https://jrichterb.github.io/tags/hardware-security/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/higher-ordermasking/</loc>
+    <loc>https://jrichterb.github.io/tags/higher-ordermasking/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/masking/</loc>
+    <loc>https://jrichterb.github.io/tags/masking/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/pqc/</loc>
+    <loc>https://jrichterb.github.io/tags/pqc/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/streamlined-ntru-prime/</loc>
+    <loc>https://jrichterb.github.io/tags/streamlined-ntru-prime/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/threshold-implementation/</loc>
+    <loc>https://jrichterb.github.io/tags/threshold-implementation/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/cini-minis/</loc>
+    <loc>https://jrichterb.github.io/tags/cini-minis/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/combined-attacks/</loc>
+    <loc>https://jrichterb.github.io/tags/combined-attacks/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/gadgets/</loc>
+    <loc>https://jrichterb.github.io/tags/gadgets/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/approximate-computing/</loc>
+    <loc>https://jrichterb.github.io/tags/approximate-computing/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/compiler-stack/</loc>
+    <loc>https://jrichterb.github.io/tags/compiler-stack/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/dse/</loc>
+    <loc>https://jrichterb.github.io/tags/dse/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/dynamic-dl/</loc>
+    <loc>https://jrichterb.github.io/tags/dynamic-dl/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/edge-ai/</loc>
+    <loc>https://jrichterb.github.io/tags/edge-ai/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/memristor/</loc>
+    <loc>https://jrichterb.github.io/tags/memristor/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/soc/</loc>
+    <loc>https://jrichterb.github.io/tags/soc/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/ulp/</loc>
+    <loc>https://jrichterb.github.io/tags/ulp/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/cortex-m4/</loc>
+    <loc>https://jrichterb.github.io/tags/cortex-m4/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/fixed-weight-polynomial-sampling/</loc>
+    <loc>https://jrichterb.github.io/tags/fixed-weight-polynomial-sampling/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/higher-order-masking/</loc>
+    <loc>https://jrichterb.github.io/tags/higher-order-masking/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/adversary-model/</loc>
+    <loc>https://jrichterb.github.io/tags/adversary-model/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/clock-glitch/</loc>
+    <loc>https://jrichterb.github.io/tags/clock-glitch/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/emfi/</loc>
+    <loc>https://jrichterb.github.io/tags/emfi/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/fault-modeling/</loc>
+    <loc>https://jrichterb.github.io/tags/fault-modeling/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/lfi/</loc>
+    <loc>https://jrichterb.github.io/tags/lfi/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/voltage-glitch/</loc>
+    <loc>https://jrichterb.github.io/tags/voltage-glitch/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/bike/</loc>
+    <loc>https://jrichterb.github.io/tags/bike/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/combined-countermeasures/</loc>
+    <loc>https://jrichterb.github.io/tags/combined-countermeasures/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/error-correction-codes/</loc>
+    <loc>https://jrichterb.github.io/tags/error-correction-codes/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/fault-verification/</loc>
+    <loc>https://jrichterb.github.io/tags/fault-verification/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/probe-isolating-non-interference/</loc>
+    <loc>https://jrichterb.github.io/tags/probe-isolating-non-interference/</loc>
     <lastmod>2022-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/nist/</loc>
+    <loc>https://jrichterb.github.io/tags/nist/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/qc-mdpc/</loc>
+    <loc>https://jrichterb.github.io/tags/qc-mdpc/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/polynomial-inversion/</loc>
+    <loc>https://jrichterb.github.io/tags/polynomial-inversion/</loc>
     <lastmod>2022-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/reconfigurable-devices/</loc>
+    <loc>https://jrichterb.github.io/tags/reconfigurable-devices/</loc>
     <lastmod>2022-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/computer-aided-security/</loc>
+    <loc>https://jrichterb.github.io/tags/computer-aided-security/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/countermeasures/</loc>
+    <loc>https://jrichterb.github.io/tags/countermeasures/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/physical-attacks/</loc>
+    <loc>https://jrichterb.github.io/tags/physical-attacks/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/fault-injection-attacks/</loc>
+    <loc>https://jrichterb.github.io/tags/fault-injection-attacks/</loc>
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/deep-learning/</loc>
+    <loc>https://jrichterb.github.io/tags/deep-learning/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/multi-channel-fusion/</loc>
+    <loc>https://jrichterb.github.io/tags/multi-channel-fusion/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/ced/</loc>
+    <loc>https://jrichterb.github.io/tags/ced/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/combined-countermeasure/</loc>
+    <loc>https://jrichterb.github.io/tags/combined-countermeasure/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/error-correcting-codes/</loc>
+    <loc>https://jrichterb.github.io/tags/error-correcting-codes/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/lmdpl/</loc>
+    <loc>https://jrichterb.github.io/tags/lmdpl/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/hiding/</loc>
+    <loc>https://jrichterb.github.io/tags/hiding/</loc>
     <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/reconfiguration/</loc>
+    <loc>https://jrichterb.github.io/tags/reconfiguration/</loc>
     <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/cryptanalysis/</loc>
+    <loc>https://jrichterb.github.io/tags/cryptanalysis/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/ecm/</loc>
+    <loc>https://jrichterb.github.io/tags/ecm/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/gpu/</loc>
+    <loc>https://jrichterb.github.io/tags/gpu/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/prime-factorization/</loc>
+    <loc>https://jrichterb.github.io/tags/prime-factorization/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>

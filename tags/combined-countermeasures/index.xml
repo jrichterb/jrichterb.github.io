@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Combined Countermeasures on Jan Richter-Brockmann</title>
-    <link>https://example.org/tags/combined-countermeasures/</link>
+    <link>https://jrichterb.github.io/tags/combined-countermeasures/</link>
     <description>Recent content in Combined Countermeasures on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/combined-countermeasures/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jrichterb.github.io/tags/combined-countermeasures/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Secure and Efficient Hardware Implementations for Modern Cryptography.</title>
-      <link>https://example.org/publications/dissertation/</link>
+      <link>https://jrichterb.github.io/publications/dissertation/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/dissertation/</guid>
+      <guid>https://jrichterb.github.io/publications/dissertation/</guid>
       <description>&lt;p&gt;In our contemporary life, digital infrastructure plays a crucial role and it is almost impossible&#xA;to imagine a modern world without the advantages provided by highly advanced technology.&#xA;Due to the influence of this infrastructure on so many areas of our life, robust, reliable, and&#xA;secure systems are necessary. Moreover, this includes performing any kind of communication&#xA;encrypted avoiding misuse of information and protecting data integrity. Creating an environ-&#xA;ment of encrypted communication became even more important over the last years since many&#xA;systems are connected including a huge amount of embedded devices. Therefore, underlying&#xA;cryptographic algorithms need to be implemented on highly diverse platforms including mi-&#xA;crocontrollers, Field-Programmable Gate Arrays (FPGAs), and Application-Specific Integrated&#xA;Circuits (ASICs).&lt;/p&gt;</description>
     </item>
   </channel>
