@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Higher-Order Masking on Jan Richter-Brockmann</title>
+    <link>https://example.org/tags/higher-order-masking/</link>
+    <description>Recent content in Higher-Order Masking on Jan Richter-Brockmann</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/higher-order-masking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Holistic Approach Towards Side-Channel Secure Fixed-Weight Polynomial Sampling.</title>
+      <link>https://example.org/publications/fixed-weight-poly-sampling/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/publications/fixed-weight-poly-sampling/</guid>
+      <description>&lt;p&gt;The sampling of polynomials with fixed weight is a procedure required by round-4 Key Encapsulation Mechanisms (KEMs) for Post-Quantum Cryptography (PQC) standardization (BIKE, HQC, McEliece) as well as NTRU, Streamlined NTRU Prime, and NTRU LPRrime. Recent attacks have shown in this context that side-channel leakage of sampling methods can be exploited for key recoveries. While countermeasures regarding such timing attacks have already been presented, still, there is no comprehensive work covering solutions that are also secure against power side channels.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Efficiently Masking Polynomial Inversion at Arbitrary Order.</title>
+      <link>https://example.org/publications/poly-inversion/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.org/publications/poly-inversion/</guid>
+      <description>&lt;p&gt;Physical side-channel analysis poses a huge threat to post-quantum cryptographic schemes implemented on embedded devices. Still, secure implementations are missing for many schemes. In this paper, we present an efficient solution for masked polynomial inversion, a main component of the key generation of multiple post-quantum KEMs. For this, we introduce a polynomial-multiplicative masking scheme with efficient arbitrary order conversions from and to additive masking. Furthermore, we show how to integrate polynomial inversion and multiplication into the masking schemes to reduce costs considerably. We demonstrate the performance of our algorithms for two different post-quantum cryptographic schemes on the Cortex-M4. For NTRU, we measure an overhead of 35% for the first-order masked inversion compared to the unmasked inversion while for BIKE the overhead is as little as 11%. Lastly, we verify the security of our algorithms for the first masking order by measuring and performing a TVLA based side-channel analysis.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

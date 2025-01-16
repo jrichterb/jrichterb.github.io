@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Combined Analysis on Jan Richter-Brockmann</title>
+    <link>https://example.org/tags/combined-analysis/</link>
+    <description>Recent content in Combined Analysis on Jan Richter-Brockmann</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/combined-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formal Definition and Verification for Combined Random Fault and Random Probing Security.</title>
+      <link>https://example.org/publications/random-combined-model/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/publications/random-combined-model/</guid>
+      <description>&lt;p&gt;In our highly digitalized world, an adversary is not constrained to purely digital attacks but can monitor or influence the physical execution environment of a target computing device. Such side-channel or fault-injection analysis poses a significant threat to otherwise secure cryptographic implementations. Hence, it is important to consider additional adversarial capabilities when analyzing the security of cryptographic implementations besides the default black-box model. For side-channel analysis, this is done by providing the adversary with knowledge of some internal values, while for fault-injection analysis the capabilities of the adversaries include manipulation of some internal values.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Computer-aided Verification for Countermeasures against Physical Attacks.</title>
+      <link>https://example.org/publications/fomsess/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/publications/fomsess/</guid>
+      <description>&lt;p&gt;Physical attacks pose a serious threat to hardware implementations of cryptographic algorithms. More precisely, the power consumption acquired during a cryptographic operation on a target hardware device in general leaks information about the processed secret key material. Additionally, an adversary who is capable to inject faults in an ongoing encryption or decryption processes can utilize the faulty ciphertexts or plaintexts to extract information about the applied secret key.&lt;/p&gt;&#xA;&lt;p&gt;Hence, over the last two decades a plethora of countermeasures have been proposed to thwart these attacks individually. However, powerful attackers could combine both attack vectors such that combined protection mechanisms are required. Even for experienced designers, the implementation of such countermeasures is an error-prone and tedious task and practical evaluations are expensive and time-consuming.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Combined Threshold Implementation. </title>
+      <link>https://example.org/publications/cti/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/publications/cti/</guid>
+      <description>&lt;p&gt;Physical security is an important aspect of devices for which an adversary can manipulate the physical execution environment. Recently, more and more attention has been directed towards a security model that combines the capabilities of passive and active physical attacks, i.e., an adversary that performs fault-injection and side-channel analysis at the same time. Implementing countermeasures against such a powerful adversary is not only costly but also requires the skillful combination of masking and redundancy to counteract all reciprocal effects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Computer-aided Verification for Countermeasures against Physical Attacks.</title>
+      <link>https://example.org/publications/steve/</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/publications/steve/</guid>
+      <description>&lt;p&gt;This talk covers the computer-aided verification of countermeasures against side-channel and fault-injection attacks. It mainly introduces our verification tool &lt;a href=&#34;https://github.com/Chair-for-Security-Engineering/VERICA&#34;&gt;VERICA&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

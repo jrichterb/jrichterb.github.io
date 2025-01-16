@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Side-Channel on Jan Richter-Brockmann</title>
+    <link>http://localhost:1313/tags/side-channel/</link>
+    <description>Recent content in Side-Channel on Jan Richter-Brockmann</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/side-channel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning Multi-Channel Fusion Attack Against Side-Channel Protected Hardware.</title>
+      <link>http://localhost:1313/publications/deep-learning/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/deep-learning/</guid>
+      <description>&lt;p&gt;State-of-the-art hardware masking approaches like threshold implementations and domain-oriented masking provide a guaranteed level of security even in the presence of glitches. Although provable secure in theory, recent work showed that the effective security order of a masked hardware implementation can be lowered by applying a multi-probe attack or exploiting externally amplified coupling effects. However, the proposed attacks are based on an unrealistic adversary model (i.e. knowledge of masks values during profiling) or require complex measurement setup manipulations.In this work, we propose a novel attack vector that exploits location dependent leakage from several decoupling capacitors of a modern System-on-Chip (SoC) with 16 nm fabrication technology. We combine the leakage from different sources using a deep learning-based information fusion approach. The results show a remarkable advantage regarding the number of required traces for a successful key recovery compared to state-of-the-art profiled side-channel attacks. All evaluations are performed under realistic conditions, resulting in a real-world attack scenario that is not limited to academic environments.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

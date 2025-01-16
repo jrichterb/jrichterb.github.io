@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Jan Richter-Brockmann | Formal Definition and Verification for Combined Random Fault and Random Probing Security.</title>
+  <meta name="description" content="">
+
+  
+  
+    <meta property="og:image" content="http://localhost:1313/images/jrb-quadratic.jpg" />
+    <meta property="og:title" content="Jan Richter-Brockmann | Formal Definition and Verification for Combined Random Fault and Random Probing Security." />   
+  
+  <meta property="og:description" content="" />
+  <meta name="author" content="Dr.-Ing. Jan Richter-Brockmann">
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+  
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Saira+Extra+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Saira+Extra+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap"></noscript>
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"></noscript>
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css" integrity="sha512-JW3fT0YTK7pT7w437SoX6GcW76jOZ6E0jGmrqBAcloC4GKT+njHOY4fX5KxJ9WfIXTkNrAF994525fAHp+KCxg==" crossorigin="anonymous" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css" integrity="sha512-JW3fT0YTK7pT7w437SoX6GcW76jOZ6E0jGmrqBAcloC4GKT+njHOY4fX5KxJ9WfIXTkNrAF994525fAHp+KCxg==" crossorigin="anonymous"></noscript>
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css" integrity="sha512-QKC1UZ/ZHNgFzVKSAhV5v5j73eeL9EEN289eKAEFaAjgAiobVAnVv/AGuPbXsKl1dNoel3kNr6PYnSiTzVVBCw==" crossorigin="anonymous" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css" integrity="sha512-QKC1UZ/ZHNgFzVKSAhV5v5j73eeL9EEN289eKAEFaAjgAiobVAnVv/AGuPbXsKl1dNoel3kNr6PYnSiTzVVBCw==" crossorigin="anonymous"></noscript>
+  
+  <link rel="preload" href="http://localhost:1313/css/resume.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="http://localhost:1313/css/resume.css"></noscript>
+  <link rel="preload" href="http://localhost:1313/css/tweaks.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="http://localhost:1313/css/tweaks.css"></noscript>
+  <link rel="preload" href="http://localhost:1313/css/resume-override.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="http://localhost:1313/css/resume-override.css"></noscript>
+  <meta name="generator" content="Hugo 0.140.2">
+  
+   
+  
+</head>
+<body id="page-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+  <a class="navbar-brand js-scroll-trigger" href="#page-top">
+    <span class="d-block d-lg-none">Dr.-Ing. Jan Richter-Brockmann</span>
+    <span class="d-none d-lg-block">
+      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="/images/jrb-quadratic.jpg" alt="">
+    </span>
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#about">About</a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#education">Education</a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#skills">Interests</a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#publications">Publications</a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#blog">Blog</a>
+      </li>
+      
+      
+          <li class="nav-item">
+            <a class="nav-link" href="/contact">Contact</a>
+          </li>
+      
+    </ul>
+  </div>
+</nav>
+  <div class="container-fluid p-0">
+    
+<nav aria-label="breadcrumb">
+  <ol  class="breadcrumb">
+    
+
+
+
+
+
+<li class="breadcrumb-item">
+  <a href="http://localhost:1313/">Home</a>
+</li>
+
+
+<li class="breadcrumb-item">
+  <a href="http://localhost:1313/publications/">Publications</a>
+</li>
+
+
+<li class="breadcrumb-item active">
+  <a href="http://localhost:1313/publications/random-combined-model-copy/">Formal Definition and Verification for Combined Random Fault and Random Probing Security.</a>
+</li>
+
+  </ol>
+</nav>
+
+
+
+
+<section class="resume-section p-3 p-lg-5 d-flex d-column content">
+  <div class="my-auto">
+    <p>International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT), 2024</p>
+    <h2 class="mb-0"><span class="text-primary">Formal Definition and Verification for Combined Random Fault and Random Probing Security.</span></h2>
+    <ul class="authors">
+    
+        <li class="author">Sonia Belaïd</li>
+    
+        <li class="author">Jakob Feldtkeller</li>
+    
+        <li class="author">Tim Güneysu</li>
+    
+        <li class="author">Anna Guinet</li>
+    
+        <li class="author">Jan Richter-Brockmann</li>
+    
+        <li class="author">Matthieu Rivain</li>
+    
+        <li class="author">Pascal Sasdrich</li>
+    
+        <li class="author">Abdul Rahman Taleb</li>
+     
+</ul>
+
+    <p><a href="https://eprint.iacr.org/2024/757.pdf">Link to full Paper</a></p>
+    
+    <p>In our highly digitalized world, an adversary is not constrained to purely digital attacks but can monitor or influence the physical execution environment of a target computing device. Such side-channel or fault-injection analysis poses a significant threat to otherwise secure cryptographic implementations. Hence, it is important to consider additional adversarial capabilities when analyzing the security of cryptographic implementations besides the default black-box model. For side-channel analysis, this is done by providing the adversary with knowledge of some internal values, while for fault-injection analysis the capabilities of the adversaries include manipulation of some internal values.</p>
+<p>In this work, we extend probabilistic security models for physical attacks, by introducing a general random probing model and a general random fault model to capture arbitrary leakage and fault distributions, as well as the combination of these models.  Our aim is to enable a more accurate modeling of low-level physical effects. We then analyze important properties, such as the impact of adversarial knowledge on faults and compositions, and provide tool-based formal verification methods that allow the security assessment of design components. These methods are introduced as extension of previous tools VERICA and IronMask which are implemented, evaluated and compared.</p>
+
+    <p class="mt-3">
+    <ul class="tags">
+    
+      <li><a class="tag" href="/tags/physical-security">Physical Security</a></li>
+    
+      <li><a class="tag" href="/tags/random-probing-model">Random Probing Model</a></li>
+    
+      <li><a class="tag" href="/tags/random-fault-model">Random Fault Model</a></li>
+    
+      <li><a class="tag" href="/tags/combined-analysis">Combined Analysis</a></li>
+    
+      <li><a class="tag" href="/tags/verica">VERICA</a></li>
+    
+      <li><a class="tag" href="/tags/ironmask">IronMask</a></li>
+    
+</ul>
+
+    </p>
+  </div>
+</section>
+
+    <section><span style="color: #999999;">Nifty <a href="https://codepen.io/wbeeftink/pen/dIaDH">tech tag lists</a> from <a class="pen-owner-link" href="https://codepen.io/wbeeftink">Wouter Beeftink</a> </span>
+      
+    </section>
+  </div>
+  
+  <script src="https://code.jquery.com/jquery-3.6.4.slim.min.js" integrity="sha256-a2yjHM4jnF9f54xUQakjZGaqYs/V1CYvWpoqZzC2/Bw=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+  
+  <script src="https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js" integrity="sha384-EYn4rWu1DHvYD0sSSSbMEtXQmMl58CFJd897806+RT1jJVYbhuZlZMN6yG9nCyFa" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/smoothscroll-anchor-polyfill@1.3.2/dist/index.min.js" integrity="sha384-EY9NBEHCFbZANmPcTm7CgG8OhsFILy0VBLG85pF6OIpP42NVbZVNsFOc23PYTCkB" crossorigin="anonymous"></script>
+  
+  <script async src="/js/resume.js"></script>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=XX-123446-01"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'XX-123446-01');
+    </script>
+  
+
+  
+
+  
+
+  
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['\\[', '\\]'], ['$$', '$$']],  
+      inlineMath: [['\\(', '\\)']]                  
+    }
+  };
+</script>
+  
+</body>
+</html>

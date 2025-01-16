@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PQC on Jan Richter-Brockmann</title>
+    <link>https://example.org/tags/pqc/</link>
+    <description>Recent content in PQC on Jan Richter-Brockmann</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/pqc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gadget-based Masking of Streamlined NTRU Prime Decapsulation in Hardware.</title>
+      <link>https://example.org/publications/masked-ntrup/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/publications/masked-ntrup/</guid>
+      <description>&lt;p&gt;Streamlined NTRU Prime is a lattice-based Key Encapsulation Mechanism (KEM) that is, together with X25519, the default algorithm in OpenSSH 9. Based on lattice assumptions, it is assumed to be secure also against attackers with access to&amp;lt; large-scale quantum computers. While Post-Quantum Cryptography (PQC) schemes have been subject to extensive research in recent years, challenges remain with respect to protection mechanisms against attackers that have additional side-channel information, such as the power consumption of a device processing secret data. As a countermeasure to such attacks, masking has been shown to be a promising and effective approach. For public-key schemes, including any recent PQC schemes, usually, a mixture of Boolean and arithmetic techniques is applied on an algorithmic level. Our generic hardware implementation of Streamlined NTRU Prime decapsulation, however, follows an idea that until now was assumed to be solely applicable efficiently to symmetric cryptography: gadget-based masking. The hardware design is transformed into a secure implementation by replacing each gate with a composable secure gadget that operates on uniform random shares of secret values. In our work, we show the feasibility of applying this approach also to PQC schemes and present the first Public-Key Cryptography (PKC) – pre- and post-quantum – implementation masked with the gadget-based approach considering several trade-offs and design choices. By the nature of gadget-based masking, the implementation can be instantiated at arbitrary masking order. We synthesize our implementation both for Artix-7 Field-Programmable Gate Arrays (FPGAs) and 45 nm Application-Specific Integrated Circuits (ASICs), yielding practically feasible results regarding the area, randomness requirement, and latency. We verify the side-channel security of our implementation using formal verification on the one hand, and practically using Test Vector Leakage Assessment (TVLA) on the other. Finally, we also analyze the applicability of our concept to Kyber and Dilithium, which will be standardized by the National Institute of Standards and Technology (NIST).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dependability of Future Edge-AI Processors: Pandora&#39;s Box.</title>
+      <link>https://example.org/publications/convolve-01/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/publications/convolve-01/</guid>
+      <description>&lt;p&gt;This paper addresses one of the directions of the HORIZON EU CONVOLVE project being dependability of smart edge processors based on computation-in-memory and emerging memristor devices such as RRAM. It discusses how how this alternative computing paradigm will change the way we used to do manufacturing test. In addition, it describes how these emerging devices inherently suffering from many non-idealities are calling for new solutions in order to ensure accurate and reliable edge computing. Moreover, the paper also covers the security aspects for future edge processors and shows the challenges and the future directions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Holistic Approach Towards Side-Channel Secure Fixed-Weight Polynomial Sampling.</title>
+      <link>https://example.org/publications/fixed-weight-poly-sampling/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/publications/fixed-weight-poly-sampling/</guid>
+      <description>&lt;p&gt;The sampling of polynomials with fixed weight is a procedure required by round-4 Key Encapsulation Mechanisms (KEMs) for Post-Quantum Cryptography (PQC) standardization (BIKE, HQC, McEliece) as well as NTRU, Streamlined NTRU Prime, and NTRU LPRrime. Recent attacks have shown in this context that side-channel leakage of sampling methods can be exploited for key recoveries. While countermeasures regarding such timing attacks have already been presented, still, there is no comprehensive work covering solutions that are also secure against power side channels.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BIKE: Bit Flipping Key Encapsulation</title>
+      <link>https://example.org/publications/bike/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.org/publications/bike/</guid>
+      <description>&lt;p&gt;BIKE is a code-based key encapsulation mechanism based on QC-MDPC (Quasi-Cyclic Moderate Density Parity-Check) codes submitted to the &lt;a href=&#34;https://csrc.nist.gov/Projects/Post-Quantum-Cryptography&#34;&gt;NIST Post-Quantum Cryptography Standardization Process&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Efficiently Masking Polynomial Inversion at Arbitrary Order.</title>
+      <link>https://example.org/publications/poly-inversion/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.org/publications/poly-inversion/</guid>
+      <description>&lt;p&gt;Physical side-channel analysis poses a huge threat to post-quantum cryptographic schemes implemented on embedded devices. Still, secure implementations are missing for many schemes. In this paper, we present an efficient solution for masked polynomial inversion, a main component of the key generation of multiple post-quantum KEMs. For this, we introduce a polynomial-multiplicative masking scheme with efficient arbitrary order conversions from and to additive masking. Furthermore, we show how to integrate polynomial inversion and multiplication into the masking schemes to reduce costs considerably. We demonstrate the performance of our algorithms for two different post-quantum cryptographic schemes on the Cortex-M4. For NTRU, we measure an overhead of 35% for the first-order masked inversion compared to the unmasked inversion while for BIKE the overhead is as little as 11%. Lastly, we verify the security of our algorithms for the first masking order by measuring and performing a TVLA based side-channel analysis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Racing BIKE: Improved Polynomial Multiplication and Inversion in Hardware.</title>
+      <link>https://example.org/publications/racing-bike/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.org/publications/racing-bike/</guid>
+      <description>&lt;p&gt;BIKE is a Key Encapsulation Mechanism selected as an alternate candidate in NIST’s PQC standardization process, in which performance plays a signiﬁcant role in the third round. This paper presents FPGA implementations of BIKE with the best area-time performance reported in literature. We optimize two key arithmetic operations, which are the sparse polynomial multiplication and the polynomial inversion. Our sparse multiplier achieves time-constancy for sparse polynomials of indeﬁnite Hamming weight used in BIKE’s encapsulation. The polynomial inversion is based on the extended Euclidean algorithm, which is unprecedented in current BIKE implementations. Our optimized design results in a 5.5 times faster key generation compared to previous implementations based on Fermat’s little theorem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Folding BIKE: Scalable Hardware Implementation for Reconfigurable Devices.</title>
+      <link>https://example.org/publications/folding-bike/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.org/publications/folding-bike/</guid>
+      <description>&lt;p&gt;Contemporary digital infrastructures and systems use and trust PKC to exchange keys over insecure communication channels. With the development and progress in the research field of quantum computers, well established schemes like RSA and ECC are more and more threatened. The urgent demand to find and standardize new schemes - which are secure in a post-quantum world - was also realized by the NIST which announced a PQC Standardization Project in 2017. Recently, the round three candidates were announced and one of the alternate candidates is the KEM scheme BIKE.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

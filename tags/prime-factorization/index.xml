@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prime Factorization on Jan Richter-Brockmann</title>
+    <link>https://example.org/tags/prime-factorization/</link>
+    <description>Recent content in Prime Factorization on Jan Richter-Brockmann</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/prime-factorization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revisiting ECM on GPUs.</title>
+      <link>https://example.org/publications/ecm/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.org/publications/ecm/</guid>
+      <description>&lt;p&gt;Modern public-key cryptography is a crucial part of our contemporary life where a secure communication channel with another party is needed. With the&#xA;advance of more powerful computing architectures – especially Graphics Processing&#xA;Units (GPUs) – traditional approaches like RSA and Diﬃe-Hellman schemes are&#xA;more and more in danger of being broken.&lt;/p&gt;&#xA;&lt;p&gt;WepresentahighlyoptimizedimplementationofLenstra’sECMalgorithmcustomized&#xA;for GPUs. Our implementation uses state-of-the-art elliptic curve arithmetic and optimized integer arithmetic while providing the possibility of arbitrarily scaling ECM’s parameters allowing an application even for larger discrete logarithm problems. Furthermore, the proposed software is not limited to any specific GPU generation and is to the best of our knowledge the first implementation supporting multiple device computation. To this end, for a bound of \(B_1 = 8\,192\) and a modulus size of 192 bit, we achieve a throughput of 214 thousand ECM trials per second on a modern RTX 2080 Ti GPU considering only the first stage of ECM. To solve the Discrete Logarithm Problem for larger bit sizes, our software can easily support larger parameter sets such that a throughput of \(2\,781\) ECM trials per second is achieved using \(B_1 = 50\,000\), \(B_2 = 5\,000\,000\), and a modulus size of 448 bit.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
