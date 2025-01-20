@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NIST on Jan Richter-Brockmann</title>
-    <link>https://jrichterb.github.io/tags/nist/</link>
+    <link>https://jaribro.de/tags/nist/</link>
     <description>Recent content in NIST on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jrichterb.github.io/tags/nist/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaribro.de/tags/nist/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BIKE: Bit Flipping Key Encapsulation</title>
-      <link>https://jrichterb.github.io/publications/bike/</link>
+      <link>https://jaribro.de/publications/bike/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/bike/</guid>
+      <guid>https://jaribro.de/publications/bike/</guid>
       <description>&lt;p&gt;BIKE is a code-based key encapsulation mechanism based on QC-MDPC (Quasi-Cyclic Moderate Density Parity-Check) codes submitted to the &lt;a href=&#34;https://csrc.nist.gov/Projects/Post-Quantum-Cryptography&#34;&gt;NIST Post-Quantum Cryptography Standardization Process&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

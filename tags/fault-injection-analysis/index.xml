@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fault-Injection Analysis on Jan Richter-Brockmann</title>
-    <link>https://jrichterb.github.io/tags/fault-injection-analysis/</link>
+    <link>https://jaribro.de/tags/fault-injection-analysis/</link>
     <description>Recent content in Fault-Injection Analysis on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jrichterb.github.io/tags/fault-injection-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaribro.de/tags/fault-injection-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer-aided Verification for Countermeasures against Physical Attacks.</title>
-      <link>https://jrichterb.github.io/publications/fomsess/</link>
+      <link>https://jaribro.de/publications/fomsess/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/fomsess/</guid>
+      <guid>https://jaribro.de/publications/fomsess/</guid>
       <description>&lt;p&gt;Physical attacks pose a serious threat to hardware implementations of cryptographic algorithms. More precisely, the power consumption acquired during a cryptographic operation on a target hardware device in general leaks information about the processed secret key material. Additionally, an adversary who is capable to inject faults in an ongoing encryption or decryption processes can utilize the faulty ciphertexts or plaintexts to extract information about the applied secret key.&lt;/p&gt;&#xA;&lt;p&gt;Hence, over the last two decades a plethora of countermeasures have been proposed to thwart these attacks individually. However, powerful attackers could combine both attack vectors such that combined protection mechanisms are required. Even for experienced designers, the implementation of such countermeasures is an error-prone and tedious task and practical evaluations are expensive and time-consuming.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Combined Threshold Implementation. </title>
-      <link>https://jrichterb.github.io/publications/cti/</link>
+      <link>https://jaribro.de/publications/cti/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/cti/</guid>
+      <guid>https://jaribro.de/publications/cti/</guid>
       <description>&lt;p&gt;Physical security is an important aspect of devices for which an adversary can manipulate the physical execution environment. Recently, more and more attention has been directed towards a security model that combines the capabilities of passive and active physical attacks, i.e., an adversary that performs fault-injection and side-channel analysis at the same time. Implementing countermeasures against such a powerful adversary is not only costly but also requires the skillful combination of masking and redundancy to counteract all reciprocal effects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Combined Private Circuits - Combined Security Refurbished.</title>
-      <link>https://jrichterb.github.io/publications/cpc/</link>
+      <link>https://jaribro.de/publications/cpc/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/cpc/</guid>
+      <guid>https://jaribro.de/publications/cpc/</guid>
       <description>&lt;p&gt;Physical attacks are well-known threats to cryptographic implementations. While countermeasures against passive Side-Channel Analysis (SCA) and active Fault Injection Analysis (FIA) exist individually, protecting against their combination remains a significant challenge. A recent attempt at achieving joint security has been published at CCS 2022 under the name CINI-MINIS. The authors introduce relevant security notions and aim to construct arbitrary-order gadgets that remain trivially composable in the presence of a combined adversary. Yet, we show that all CINI-MINIS gadgets at any order are susceptible to a devastating attack with only a single fault and probe due to a lack of error correction modules in the compression. We explain the details of the attack, pinpoint the underlying problem in the constructions, propose an additional design principle, and provide new (fixed) provably secure and composable gadgets for arbitrary order. Luckily, the changes in the compression stage help us to save correction modules and registers elsewhere, making the resulting Combined Private Circuits (CPC) more secure and more efficient than the original ones. We also explain why the discovered flaws have been missed by the associated formal verification tool VERICA (TCHES 2022) and propose fixes to remove its blind spot. Finally, we explore alternative avenues to repair the compression stage without additional corrections based on non-completeness, i.e., constructing a compression that never recombines any secret. Yet, while this approach could have merit for low-order gadgets, it is, for now, hard to generalize and scales poorly to higher orders. We conclude that our refurbished arbitrary order CINI gadgets provide a solid foundation for further research.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Computer-aided Verification for Countermeasures against Physical Attacks.</title>
-      <link>https://jrichterb.github.io/publications/steve/</link>
+      <link>https://jaribro.de/publications/steve/</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/steve/</guid>
+      <guid>https://jaribro.de/publications/steve/</guid>
       <description>&lt;p&gt;This talk covers the computer-aided verification of countermeasures against side-channel and fault-injection attacks. It mainly introduces our verification tool &lt;a href=&#34;https://github.com/Chair-for-Security-Engineering/VERICA&#34;&gt;VERICA&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Revisiting Fault Adversary Models - Hardware Faults in Theory and Practice.</title>
-      <link>https://jrichterb.github.io/publications/fault-model/</link>
+      <link>https://jaribro.de/publications/fault-model/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/fault-model/</guid>
+      <guid>https://jaribro.de/publications/fault-model/</guid>
       <description>&lt;p&gt;Physical attacks are serious threats to hardware implementations of any strong cryptographic primitive. Particularly, fault injection attack is considered as a powerful technique to successfully attack embedded cryptographic implementations since various fault injection mechanisms from simple clock glitches to more advanced techniques like laser fault injection can lead to devastating attacks, even with just a single successfully injected fault. Given these critical attack vectors, researchers in academia and industry came up with a long list of dedicated countermeasures to thwart such attacks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Secure and Efficient Hardware Implementations for Modern Cryptography.</title>
-      <link>https://jrichterb.github.io/publications/dissertation/</link>
+      <link>https://jaribro.de/publications/dissertation/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/dissertation/</guid>
+      <guid>https://jaribro.de/publications/dissertation/</guid>
       <description>&lt;p&gt;In our contemporary life, digital infrastructure plays a crucial role and it is almost impossible&#xA;to imagine a modern world without the advantages provided by highly advanced technology.&#xA;Due to the influence of this infrastructure on so many areas of our life, robust, reliable, and&#xA;secure systems are necessary. Moreover, this includes performing any kind of communication&#xA;encrypted avoiding misuse of information and protecting data integrity. Creating an environ-&#xA;ment of encrypted communication became even more important over the last years since many&#xA;systems are connected including a huge amount of embedded devices. Therefore, underlying&#xA;cryptographic algorithms need to be implemented on highly diverse platforms including mi-&#xA;crocontrollers, Field-Programmable Gate Arrays (FPGAs), and Application-Specific Integrated&#xA;Circuits (ASICs).&lt;/p&gt;</description>
     </item>
     <item>
       <title>CINI MINIS: Domain Isolation for Fault and Combined Security.</title>
-      <link>https://jrichterb.github.io/publications/cini-minis/</link>
+      <link>https://jaribro.de/publications/cini-minis/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/cini-minis/</guid>
+      <guid>https://jaribro.de/publications/cini-minis/</guid>
       <description>&lt;p&gt;Observation and manipulation of physical characteristics are well-known and powerful threats to cryptographic devices. While countermeasures against passive side-channel and active fault-injection attacks are well understood individually, combined attacks, i.e., the combination of fault injection and side-channel analysis, is a mostly unexplored area. Naturally, the complexity of analysis and secure construction increases with the sophistication of the adversary, making the combined scenario especially challenging. To tackle complexity, the side-channel community has converged on the construction of small building blocks, which maintain security properties even when composed. In this regard, Probe-Isolating Non-Interference (PINI) is a widely used notion for secure composition in the presence of side-channel attacks due to its efficiency and elegance. In this work, we transfer the core ideas behind PINI to the context of fault and combined security and, from that, construct the first trivially composable gadgets in the presence of a combined adversary.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Concurrent Error Detection Revisited: Hardware Protection against Fault and Side-channel Attacks.</title>
-      <link>https://jrichterb.github.io/publications/orthogonal-codes/</link>
+      <link>https://jaribro.de/publications/orthogonal-codes/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/orthogonal-codes/</guid>
+      <guid>https://jaribro.de/publications/orthogonal-codes/</guid>
       <description>&lt;p&gt;Fault Injection Analysis (FIA) and Side-Channel Analysis (SCA) are considered among the most serious threats to cryptographic implementations and require dedicated countermeasures to ensure protection through the entire life-cycle of the implementations.&lt;/p&gt;&#xA;&lt;p&gt;In this work, our contribution is twofold. First, we present a novel orthogonal layout of linear Error-Correcting Codes (ECCs) to adjust classical Concurrent Error Detection (CED) to an adversary model that assumes precisely induced single-bit faults which, with a certain non-negligible probability, will affect adjacent bits. Second, we combine our orthogonal error correction technique with a state-of-the-art SCA protection mechanism to demonstrate resistance against both threats.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Improved Side-Channel Resistance by Dynamic Fault-Injection Countermeasures.</title>
-      <link>https://jrichterb.github.io/publications/dynamic-codes/</link>
+      <link>https://jaribro.de/publications/dynamic-codes/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/dynamic-codes/</guid>
+      <guid>https://jaribro.de/publications/dynamic-codes/</guid>
       <description>&lt;p&gt;Side-channel analysis and fault-injection attacks are known as serious threats to cryptographic hardware implementations and the combined protection against both is currently an open line of research. A promising countermeasure with considerable implementation overhead appears to be a mix of first-order secure Threshold Implementations and linear Error-Correcting Codes.&lt;/p&gt;&#xA;&lt;p&gt;In this paper we employ for the first time the inherent structure of non-systematic codes as fault countermeasure which dynamically mutates the applied generator matrices to achieve a higher-order side-channel and fault-protected design. As a case study, we apply our scheme to the PRESENT block cipher that do not show any higher-order side-channel leakage after measuring 150 million power traces.&lt;/p&gt;</description>
     </item>
   </channel>

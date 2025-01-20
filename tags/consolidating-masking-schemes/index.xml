@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Consolidating Masking Schemes on Jan Richter-Brockmann</title>
-    <link>https://jrichterb.github.io/tags/consolidating-masking-schemes/</link>
+    <link>https://jaribro.de/tags/consolidating-masking-schemes/</link>
     <description>Recent content in Consolidating Masking Schemes on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jrichterb.github.io/tags/consolidating-masking-schemes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaribro.de/tags/consolidating-masking-schemes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Combined Threshold Implementation. </title>
-      <link>https://jrichterb.github.io/publications/cti/</link>
+      <link>https://jaribro.de/publications/cti/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/cti/</guid>
+      <guid>https://jaribro.de/publications/cti/</guid>
       <description>&lt;p&gt;Physical security is an important aspect of devices for which an adversary can manipulate the physical execution environment. Recently, more and more attention has been directed towards a security model that combines the capabilities of passive and active physical attacks, i.e., an adversary that performs fault-injection and side-channel analysis at the same time. Implementing countermeasures against such a powerful adversary is not only costly but also requires the skillful combination of masking and redundancy to counteract all reciprocal effects.&lt;/p&gt;</description>
     </item>
   </channel>

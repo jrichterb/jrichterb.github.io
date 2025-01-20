@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Error-Correcting Codes on Jan Richter-Brockmann</title>
-    <link>https://jrichterb.github.io/tags/error-correcting-codes/</link>
+    <link>https://jaribro.de/tags/error-correcting-codes/</link>
     <description>Recent content in Error-Correcting Codes on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jrichterb.github.io/tags/error-correcting-codes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaribro.de/tags/error-correcting-codes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Concurrent Error Detection Revisited: Hardware Protection against Fault and Side-channel Attacks.</title>
-      <link>https://jrichterb.github.io/publications/orthogonal-codes/</link>
+      <link>https://jaribro.de/publications/orthogonal-codes/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/orthogonal-codes/</guid>
+      <guid>https://jaribro.de/publications/orthogonal-codes/</guid>
       <description>&lt;p&gt;Fault Injection Analysis (FIA) and Side-Channel Analysis (SCA) are considered among the most serious threats to cryptographic implementations and require dedicated countermeasures to ensure protection through the entire life-cycle of the implementations.&lt;/p&gt;&#xA;&lt;p&gt;In this work, our contribution is twofold. First, we present a novel orthogonal layout of linear Error-Correcting Codes (ECCs) to adjust classical Concurrent Error Detection (CED) to an adversary model that assumes precisely induced single-bit faults which, with a certain non-negligible probability, will affect adjacent bits. Second, we combine our orthogonal error correction technique with a state-of-the-art SCA protection mechanism to demonstrate resistance against both threats.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Improved Side-Channel Resistance by Dynamic Fault-Injection Countermeasures.</title>
-      <link>https://jrichterb.github.io/publications/dynamic-codes/</link>
+      <link>https://jaribro.de/publications/dynamic-codes/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/dynamic-codes/</guid>
+      <guid>https://jaribro.de/publications/dynamic-codes/</guid>
       <description>&lt;p&gt;Side-channel analysis and fault-injection attacks are known as serious threats to cryptographic hardware implementations and the combined protection against both is currently an open line of research. A promising countermeasure with considerable implementation overhead appears to be a mix of first-order secure Threshold Implementations and linear Error-Correcting Codes.&lt;/p&gt;&#xA;&lt;p&gt;In this paper we employ for the first time the inherent structure of non-systematic codes as fault countermeasure which dynamically mutates the applied generator matrices to achieve a higher-order side-channel and fault-protected design. As a case study, we apply our scheme to the PRESENT block cipher that do not show any higher-order side-channel leakage after measuring 150 million power traces.&lt;/p&gt;</description>
     </item>
   </channel>

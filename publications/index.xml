@@ -2,157 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Jan Richter-Brockmann</title>
-    <link>https://jrichterb.github.io/publications/</link>
+    <link>https://jaribro.de/publications/</link>
     <description>Recent content in Publications on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jrichterb.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaribro.de/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formal Definition and Verification for Combined Random Fault and Random Probing Security.</title>
-      <link>https://jrichterb.github.io/publications/random-combined-model/</link>
+      <link>https://jaribro.de/publications/random-combined-model/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/random-combined-model/</guid>
+      <guid>https://jaribro.de/publications/random-combined-model/</guid>
       <description>&lt;p&gt;In our highly digitalized world, an adversary is not constrained to purely digital attacks but can monitor or influence the physical execution environment of a target computing device. Such side-channel or fault-injection analysis poses a significant threat to otherwise secure cryptographic implementations. Hence, it is important to consider additional adversarial capabilities when analyzing the security of cryptographic implementations besides the default black-box model. For side-channel analysis, this is done by providing the adversary with knowledge of some internal values, while for fault-injection analysis the capabilities of the adversaries include manipulation of some internal values.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Computer-aided Verification for Countermeasures against Physical Attacks.</title>
-      <link>https://jrichterb.github.io/publications/fomsess/</link>
+      <link>https://jaribro.de/publications/fomsess/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/fomsess/</guid>
+      <guid>https://jaribro.de/publications/fomsess/</guid>
       <description>&lt;p&gt;Physical attacks pose a serious threat to hardware implementations of cryptographic algorithms. More precisely, the power consumption acquired during a cryptographic operation on a target hardware device in general leaks information about the processed secret key material. Additionally, an adversary who is capable to inject faults in an ongoing encryption or decryption processes can utilize the faulty ciphertexts or plaintexts to extract information about the applied secret key.&lt;/p&gt;&#xA;&lt;p&gt;Hence, over the last two decades a plethora of countermeasures have been proposed to thwart these attacks individually. However, powerful attackers could combine both attack vectors such that combined protection mechanisms are required. Even for experienced designers, the implementation of such countermeasures is an error-prone and tedious task and practical evaluations are expensive and time-consuming.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Combined Threshold Implementation. </title>
-      <link>https://jrichterb.github.io/publications/cti/</link>
+      <link>https://jaribro.de/publications/cti/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/cti/</guid>
+      <guid>https://jaribro.de/publications/cti/</guid>
       <description>&lt;p&gt;Physical security is an important aspect of devices for which an adversary can manipulate the physical execution environment. Recently, more and more attention has been directed towards a security model that combines the capabilities of passive and active physical attacks, i.e., an adversary that performs fault-injection and side-channel analysis at the same time. Implementing countermeasures against such a powerful adversary is not only costly but also requires the skillful combination of masking and redundancy to counteract all reciprocal effects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gadget-based Masking of Streamlined NTRU Prime Decapsulation in Hardware.</title>
-      <link>https://jrichterb.github.io/publications/masked-ntrup/</link>
+      <link>https://jaribro.de/publications/masked-ntrup/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/masked-ntrup/</guid>
+      <guid>https://jaribro.de/publications/masked-ntrup/</guid>
       <description>&lt;p&gt;Streamlined NTRU Prime is a lattice-based Key Encapsulation Mechanism (KEM) that is, together with X25519, the default algorithm in OpenSSH 9. Based on lattice assumptions, it is assumed to be secure also against attackers with access to&amp;lt; large-scale quantum computers. While Post-Quantum Cryptography (PQC) schemes have been subject to extensive research in recent years, challenges remain with respect to protection mechanisms against attackers that have additional side-channel information, such as the power consumption of a device processing secret data. As a countermeasure to such attacks, masking has been shown to be a promising and effective approach. For public-key schemes, including any recent PQC schemes, usually, a mixture of Boolean and arithmetic techniques is applied on an algorithmic level. Our generic hardware implementation of Streamlined NTRU Prime decapsulation, however, follows an idea that until now was assumed to be solely applicable efficiently to symmetric cryptography: gadget-based masking. The hardware design is transformed into a secure implementation by replacing each gate with a composable secure gadget that operates on uniform random shares of secret values. In our work, we show the feasibility of applying this approach also to PQC schemes and present the first Public-Key Cryptography (PKC) – pre- and post-quantum – implementation masked with the gadget-based approach considering several trade-offs and design choices. By the nature of gadget-based masking, the implementation can be instantiated at arbitrary masking order. We synthesize our implementation both for Artix-7 Field-Programmable Gate Arrays (FPGAs) and 45 nm Application-Specific Integrated Circuits (ASICs), yielding practically feasible results regarding the area, randomness requirement, and latency. We verify the side-channel security of our implementation using formal verification on the one hand, and practically using Test Vector Leakage Assessment (TVLA) on the other. Finally, we also analyze the applicability of our concept to Kyber and Dilithium, which will be standardized by the National Institute of Standards and Technology (NIST).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Combined Private Circuits - Combined Security Refurbished.</title>
-      <link>https://jrichterb.github.io/publications/cpc/</link>
+      <link>https://jaribro.de/publications/cpc/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/cpc/</guid>
+      <guid>https://jaribro.de/publications/cpc/</guid>
       <description>&lt;p&gt;Physical attacks are well-known threats to cryptographic implementations. While countermeasures against passive Side-Channel Analysis (SCA) and active Fault Injection Analysis (FIA) exist individually, protecting against their combination remains a significant challenge. A recent attempt at achieving joint security has been published at CCS 2022 under the name CINI-MINIS. The authors introduce relevant security notions and aim to construct arbitrary-order gadgets that remain trivially composable in the presence of a combined adversary. Yet, we show that all CINI-MINIS gadgets at any order are susceptible to a devastating attack with only a single fault and probe due to a lack of error correction modules in the compression. We explain the details of the attack, pinpoint the underlying problem in the constructions, propose an additional design principle, and provide new (fixed) provably secure and composable gadgets for arbitrary order. Luckily, the changes in the compression stage help us to save correction modules and registers elsewhere, making the resulting Combined Private Circuits (CPC) more secure and more efficient than the original ones. We also explain why the discovered flaws have been missed by the associated formal verification tool VERICA (TCHES 2022) and propose fixes to remove its blind spot. Finally, we explore alternative avenues to repair the compression stage without additional corrections based on non-completeness, i.e., constructing a compression that never recombines any secret. Yet, while this approach could have merit for low-order gadgets, it is, for now, hard to generalize and scales poorly to higher orders. We conclude that our refurbished arbitrary order CINI gadgets provide a solid foundation for further research.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Computer-aided Verification for Countermeasures against Physical Attacks.</title>
-      <link>https://jrichterb.github.io/publications/steve/</link>
+      <link>https://jaribro.de/publications/steve/</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/steve/</guid>
+      <guid>https://jaribro.de/publications/steve/</guid>
       <description>&lt;p&gt;This talk covers the computer-aided verification of countermeasures against side-channel and fault-injection attacks. It mainly introduces our verification tool &lt;a href=&#34;https://github.com/Chair-for-Security-Engineering/VERICA&#34;&gt;VERICA&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dependability of Future Edge-AI Processors: Pandora&#39;s Box.</title>
-      <link>https://jrichterb.github.io/publications/convolve-01/</link>
+      <link>https://jaribro.de/publications/convolve-01/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/convolve-01/</guid>
+      <guid>https://jaribro.de/publications/convolve-01/</guid>
       <description>&lt;p&gt;This paper addresses one of the directions of the HORIZON EU CONVOLVE project being dependability of smart edge processors based on computation-in-memory and emerging memristor devices such as RRAM. It discusses how how this alternative computing paradigm will change the way we used to do manufacturing test. In addition, it describes how these emerging devices inherently suffering from many non-idealities are calling for new solutions in order to ensure accurate and reliable edge computing. Moreover, the paper also covers the security aspects for future edge processors and shows the challenges and the future directions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Holistic Approach Towards Side-Channel Secure Fixed-Weight Polynomial Sampling.</title>
-      <link>https://jrichterb.github.io/publications/fixed-weight-poly-sampling/</link>
+      <link>https://jaribro.de/publications/fixed-weight-poly-sampling/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/fixed-weight-poly-sampling/</guid>
+      <guid>https://jaribro.de/publications/fixed-weight-poly-sampling/</guid>
       <description>&lt;p&gt;The sampling of polynomials with fixed weight is a procedure required by round-4 Key Encapsulation Mechanisms (KEMs) for Post-Quantum Cryptography (PQC) standardization (BIKE, HQC, McEliece) as well as NTRU, Streamlined NTRU Prime, and NTRU LPRrime. Recent attacks have shown in this context that side-channel leakage of sampling methods can be exploited for key recoveries. While countermeasures regarding such timing attacks have already been presented, still, there is no comprehensive work covering solutions that are also secure against power side channels.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Revisiting Fault Adversary Models - Hardware Faults in Theory and Practice.</title>
-      <link>https://jrichterb.github.io/publications/fault-model/</link>
+      <link>https://jaribro.de/publications/fault-model/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/fault-model/</guid>
+      <guid>https://jaribro.de/publications/fault-model/</guid>
       <description>&lt;p&gt;Physical attacks are serious threats to hardware implementations of any strong cryptographic primitive. Particularly, fault injection attack is considered as a powerful technique to successfully attack embedded cryptographic implementations since various fault injection mechanisms from simple clock glitches to more advanced techniques like laser fault injection can lead to devastating attacks, even with just a single successfully injected fault. Given these critical attack vectors, researchers in academia and industry came up with a long list of dedicated countermeasures to thwart such attacks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Secure and Efficient Hardware Implementations for Modern Cryptography.</title>
-      <link>https://jrichterb.github.io/publications/dissertation/</link>
+      <link>https://jaribro.de/publications/dissertation/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/dissertation/</guid>
+      <guid>https://jaribro.de/publications/dissertation/</guid>
       <description>&lt;p&gt;In our contemporary life, digital infrastructure plays a crucial role and it is almost impossible&#xA;to imagine a modern world without the advantages provided by highly advanced technology.&#xA;Due to the influence of this infrastructure on so many areas of our life, robust, reliable, and&#xA;secure systems are necessary. Moreover, this includes performing any kind of communication&#xA;encrypted avoiding misuse of information and protecting data integrity. Creating an environ-&#xA;ment of encrypted communication became even more important over the last years since many&#xA;systems are connected including a huge amount of embedded devices. Therefore, underlying&#xA;cryptographic algorithms need to be implemented on highly diverse platforms including mi-&#xA;crocontrollers, Field-Programmable Gate Arrays (FPGAs), and Application-Specific Integrated&#xA;Circuits (ASICs).&lt;/p&gt;</description>
     </item>
     <item>
       <title>CINI MINIS: Domain Isolation for Fault and Combined Security.</title>
-      <link>https://jrichterb.github.io/publications/cini-minis/</link>
+      <link>https://jaribro.de/publications/cini-minis/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/cini-minis/</guid>
+      <guid>https://jaribro.de/publications/cini-minis/</guid>
       <description>&lt;p&gt;Observation and manipulation of physical characteristics are well-known and powerful threats to cryptographic devices. While countermeasures against passive side-channel and active fault-injection attacks are well understood individually, combined attacks, i.e., the combination of fault injection and side-channel analysis, is a mostly unexplored area. Naturally, the complexity of analysis and secure construction increases with the sophistication of the adversary, making the combined scenario especially challenging. To tackle complexity, the side-channel community has converged on the construction of small building blocks, which maintain security properties even when composed. In this regard, Probe-Isolating Non-Interference (PINI) is a widely used notion for secure composition in the presence of side-channel attacks due to its efficiency and elegance. In this work, we transfer the core ideas behind PINI to the context of fault and combined security and, from that, construct the first trivially composable gadgets in the presence of a combined adversary.&lt;/p&gt;</description>
     </item>
     <item>
       <title>BIKE: Bit Flipping Key Encapsulation</title>
-      <link>https://jrichterb.github.io/publications/bike/</link>
+      <link>https://jaribro.de/publications/bike/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/bike/</guid>
+      <guid>https://jaribro.de/publications/bike/</guid>
       <description>&lt;p&gt;BIKE is a code-based key encapsulation mechanism based on QC-MDPC (Quasi-Cyclic Moderate Density Parity-Check) codes submitted to the &lt;a href=&#34;https://csrc.nist.gov/Projects/Post-Quantum-Cryptography&#34;&gt;NIST Post-Quantum Cryptography Standardization Process&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Efficiently Masking Polynomial Inversion at Arbitrary Order.</title>
-      <link>https://jrichterb.github.io/publications/poly-inversion/</link>
+      <link>https://jaribro.de/publications/poly-inversion/</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/poly-inversion/</guid>
+      <guid>https://jaribro.de/publications/poly-inversion/</guid>
       <description>&lt;p&gt;Physical side-channel analysis poses a huge threat to post-quantum cryptographic schemes implemented on embedded devices. Still, secure implementations are missing for many schemes. In this paper, we present an efficient solution for masked polynomial inversion, a main component of the key generation of multiple post-quantum KEMs. For this, we introduce a polynomial-multiplicative masking scheme with efficient arbitrary order conversions from and to additive masking. Furthermore, we show how to integrate polynomial inversion and multiplication into the masking schemes to reduce costs considerably. We demonstrate the performance of our algorithms for two different post-quantum cryptographic schemes on the Cortex-M4. For NTRU, we measure an overhead of 35% for the first-order masked inversion compared to the unmasked inversion while for BIKE the overhead is as little as 11%. Lastly, we verify the security of our algorithms for the first masking order by measuring and performing a TVLA based side-channel analysis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Racing BIKE: Improved Polynomial Multiplication and Inversion in Hardware.</title>
-      <link>https://jrichterb.github.io/publications/racing-bike/</link>
+      <link>https://jaribro.de/publications/racing-bike/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/racing-bike/</guid>
+      <guid>https://jaribro.de/publications/racing-bike/</guid>
       <description>&lt;p&gt;BIKE is a Key Encapsulation Mechanism selected as an alternate candidate in NIST’s PQC standardization process, in which performance plays a signiﬁcant role in the third round. This paper presents FPGA implementations of BIKE with the best area-time performance reported in literature. We optimize two key arithmetic operations, which are the sparse polynomial multiplication and the polynomial inversion. Our sparse multiplier achieves time-constancy for sparse polynomials of indeﬁnite Hamming weight used in BIKE’s encapsulation. The polynomial inversion is based on the extended Euclidean algorithm, which is unprecedented in current BIKE implementations. Our optimized design results in a 5.5 times faster key generation compared to previous implementations based on Fermat’s little theorem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>VERICA - Verification of Combined Attacks: Automated formal verification of security against simultaneous information leakage and tampering.</title>
-      <link>https://jrichterb.github.io/publications/verica/</link>
+      <link>https://jaribro.de/publications/verica/</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/verica/</guid>
+      <guid>https://jaribro.de/publications/verica/</guid>
       <description>&lt;p&gt;Physical attacks, including passive Side-Channel Analysis and active Fault Injection Analysis, are considered among the most powerful threats against physical cryptographic implementations. These attacks are well known and research provides many specialized countermeasures to protect cryptographic implementations against them. Still, only a limited number of combined countermeasures, i.e., countermeasures that protect implementations against multiple attacks simultaneously, were proposed in the past. Due to increasing complexity and reciprocal effects, design of efficient and reliable combined countermeasures requires longstanding expertise in hardware design and security. With the help of formal security specifications and adversary models, automated verification can streamline development cycles, increase quality, and facilitate development of robust cryptographic implementations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Folding BIKE: Scalable Hardware Implementation for Reconfigurable Devices.</title>
-      <link>https://jrichterb.github.io/publications/folding-bike/</link>
+      <link>https://jaribro.de/publications/folding-bike/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/folding-bike/</guid>
+      <guid>https://jaribro.de/publications/folding-bike/</guid>
       <description>&lt;p&gt;Contemporary digital infrastructures and systems use and trust PKC to exchange keys over insecure communication channels. With the development and progress in the research field of quantum computers, well established schemes like RSA and ECC are more and more threatened. The urgent demand to find and standardize new schemes - which are secure in a post-quantum world - was also realized by the NIST which announced a PQC Standardization Project in 2017. Recently, the round three candidates were announced and one of the alternate candidates is the KEM scheme BIKE.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FIVER - Robust Verification of Countermeasures against Fault Injections.</title>
-      <link>https://jrichterb.github.io/publications/fiver/</link>
+      <link>https://jaribro.de/publications/fiver/</link>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/fiver/</guid>
+      <guid>https://jaribro.de/publications/fiver/</guid>
       <description>&lt;p&gt;Fault Injection Analysis is seen as a powerful attack against implementations of cryptographic algorithms. Over the last two decades, researchers proposed a plethora of countermeasures to secure such implementations. However, the design process and implementation are still error-prone, complex, and manual tasks which require long-standing experience in hardware design and physical security. Moreover, the validation of the claimed security is often only done by empirical testing in a very late stage of the design process. To prevent such empirical testing strategies, approaches based on formal verification are applied instead providing the designer early feedback.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deep Learning Multi-Channel Fusion Attack Against Side-Channel Protected Hardware.</title>
-      <link>https://jrichterb.github.io/publications/deep-learning/</link>
+      <link>https://jaribro.de/publications/deep-learning/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/deep-learning/</guid>
+      <guid>https://jaribro.de/publications/deep-learning/</guid>
       <description>&lt;p&gt;State-of-the-art hardware masking approaches like threshold implementations and domain-oriented masking provide a guaranteed level of security even in the presence of glitches. Although provable secure in theory, recent work showed that the effective security order of a masked hardware implementation can be lowered by applying a multi-probe attack or exploiting externally amplified coupling effects. However, the proposed attacks are based on an unrealistic adversary model (i.e. knowledge of masks values during profiling) or require complex measurement setup manipulations.In this work, we propose a novel attack vector that exploits location dependent leakage from several decoupling capacitors of a modern System-on-Chip (SoC) with 16 nm fabrication technology. We combine the leakage from different sources using a deep learning-based information fusion approach. The results show a remarkable advantage regarding the number of required traces for a successful key recovery compared to state-of-the-art profiled side-channel attacks. All evaluations are performed under realistic conditions, resulting in a real-world attack scenario that is not limited to academic environments.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Concurrent Error Detection Revisited: Hardware Protection against Fault and Side-channel Attacks.</title>
-      <link>https://jrichterb.github.io/publications/orthogonal-codes/</link>
+      <link>https://jaribro.de/publications/orthogonal-codes/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/orthogonal-codes/</guid>
+      <guid>https://jaribro.de/publications/orthogonal-codes/</guid>
       <description>&lt;p&gt;Fault Injection Analysis (FIA) and Side-Channel Analysis (SCA) are considered among the most serious threats to cryptographic implementations and require dedicated countermeasures to ensure protection through the entire life-cycle of the implementations.&lt;/p&gt;&#xA;&lt;p&gt;In this work, our contribution is twofold. First, we present a novel orthogonal layout of linear Error-Correcting Codes (ECCs) to adjust classical Concurrent Error Detection (CED) to an adversary model that assumes precisely induced single-bit faults which, with a certain non-negligible probability, will affect adjacent bits. Second, we combine our orthogonal error correction technique with a state-of-the-art SCA protection mechanism to demonstrate resistance against both threats.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Improved Side-Channel Resistance by Dynamic Fault-Injection Countermeasures.</title>
-      <link>https://jrichterb.github.io/publications/dynamic-codes/</link>
+      <link>https://jaribro.de/publications/dynamic-codes/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/dynamic-codes/</guid>
+      <guid>https://jaribro.de/publications/dynamic-codes/</guid>
       <description>&lt;p&gt;Side-channel analysis and fault-injection attacks are known as serious threats to cryptographic hardware implementations and the combined protection against both is currently an open line of research. A promising countermeasure with considerable implementation overhead appears to be a mix of first-order secure Threshold Implementations and linear Error-Correcting Codes.&lt;/p&gt;&#xA;&lt;p&gt;In this paper we employ for the first time the inherent structure of non-systematic codes as fault countermeasure which dynamically mutates the applied generator matrices to achieve a higher-order side-channel and fault-protected design. As a case study, we apply our scheme to the PRESENT block cipher that do not show any higher-order side-channel leakage after measuring 150 million power traces.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Revisiting ECM on GPUs.</title>
-      <link>https://jrichterb.github.io/publications/ecm/</link>
+      <link>https://jaribro.de/publications/ecm/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jrichterb.github.io/publications/ecm/</guid>
+      <guid>https://jaribro.de/publications/ecm/</guid>
       <description>&lt;p&gt;Modern public-key cryptography is a crucial part of our contemporary life where a secure communication channel with another party is needed. With the&#xA;advance of more powerful computing architectures – especially Graphics Processing&#xA;Units (GPUs) – traditional approaches like RSA and Diﬃe-Hellman schemes are&#xA;more and more in danger of being broken.&lt;/p&gt;&#xA;&lt;p&gt;WepresentahighlyoptimizedimplementationofLenstra’sECMalgorithmcustomized&#xA;for GPUs. Our implementation uses state-of-the-art elliptic curve arithmetic and optimized integer arithmetic while providing the possibility of arbitrarily scaling ECM’s parameters allowing an application even for larger discrete logarithm problems. Furthermore, the proposed software is not limited to any specific GPU generation and is to the best of our knowledge the first implementation supporting multiple device computation. To this end, for a bound of \(B_1 = 8\,192\) and a modulus size of 192 bit, we achieve a throughput of 214 thousand ECM trials per second on a modern RTX 2080 Ti GPU considering only the first stage of ECM. To solve the Discrete Logarithm Problem for larger bit sizes, our software can easily support larger parameter sets such that a throughput of \(2\,781\) ECM trials per second is achieved using \(B_1 = 50\,000\), \(B_2 = 5\,000\,000\), and a modulus size of 448 bit.&lt;/p&gt;</description>
     </item>
   </channel>
