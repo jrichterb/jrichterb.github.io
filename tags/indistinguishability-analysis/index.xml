@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Indistinguishability Analysis on Jan Richter-Brockmann</title>
-    <link>http://localhost:1313/tags/indistinguishability-analysis/</link>
+    <link>https://jaribro.de/tags/indistinguishability-analysis/</link>
     <description>Recent content in Indistinguishability Analysis on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/indistinguishability-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jaribro.de/tags/indistinguishability-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>INDIANA - Verifying (Random) Probing Security through Indistinguishability Analysis.</title>
-      <link>http://localhost:1313/publications/indiana/</link>
-      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/indiana/</guid>
-      <description>&lt;p&gt;While masking is a widely used defense against passive side-&#xA;channel attacks, its secure implementation in hardware continues to be&#xA;a manual, complex, and error-prone process.&lt;/p&gt;&#xA;&lt;p&gt;This paper introduces INDIANA, a comprehensive security verification&#xA;methodology for hardware masking. Our results include a hardware verification tool, enabling a complete analysis of simulation-based security in&#xA;the glitch-extended probing model and intra-cycle estimations for leak-&#xA;age probabilities in the random probing model. Notably, INDIANA is the&#xA;first framework to analyze arbitrary masked circuits in both models, even&#xA;at the scale of full SPN cipher rounds (e.g., AES), while delivering exact&#xA;verification results. To achieve accurate and comprehensive verification,&#xA;we propose a partitionable probing distinguisher that allows for fast vali-&#xA;dation of probe tuples, surpassing current methods that rely on statistical&#xA;independence. Furthermore, our approach naturally supports extensions&#xA;to the random probing model by utilizing Fast Fourier-Hadamard Trans-&#xA;formations (FHTs).&lt;/p&gt;</description>
+      <link>https://jaribro.de/publications/indiana/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://jaribro.de/publications/indiana/</guid>
+      <description>&lt;p&gt;While masking is a widely used defense against passive side-channel attacks, its secure implementation in hardware continues to be a manual, complex, and error-prone process.&lt;/p&gt;&#xA;&lt;p&gt;This paper introduces INDIANA, a comprehensive security verification methodology for hardware masking. Our results include a hardware verification tool, enabling a complete analysis of simulation-based security in the glitch-extended probing model and intra-cycle estimations for leakage probabilities in the random probing model. Notably, INDIANA is the first framework to analyze arbitrary masked circuits in both models, even at the scale of full SPN cipher rounds (e.g., AES), while delivering exact verification results. To achieve accurate and comprehensive verification, we propose a partitionable probing distinguisher that allows for fast validation of probe tuples, surpassing current methods that rely on statistical independence. Furthermore, our approach naturally supports extensions to the random probing model by utilizing Fast Fourier-Hadamard Transformations (FHTs).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

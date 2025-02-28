@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fixed Weight Polynomial Sampling on Jan Richter-Brockmann</title>
-    <link>http://localhost:1313/tags/fixed-weight-polynomial-sampling/</link>
+    <link>https://jaribro.de/tags/fixed-weight-polynomial-sampling/</link>
     <description>Recent content in Fixed Weight Polynomial Sampling on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/fixed-weight-polynomial-sampling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaribro.de/tags/fixed-weight-polynomial-sampling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Holistic Approach Towards Side-Channel Secure Fixed-Weight Polynomial Sampling.</title>
-      <link>http://localhost:1313/publications/fixed-weight-poly-sampling/</link>
+      <link>https://jaribro.de/publications/fixed-weight-poly-sampling/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/fixed-weight-poly-sampling/</guid>
+      <guid>https://jaribro.de/publications/fixed-weight-poly-sampling/</guid>
       <description>&lt;p&gt;The sampling of polynomials with fixed weight is a procedure required by round-4 Key Encapsulation Mechanisms (KEMs) for Post-Quantum Cryptography (PQC) standardization (BIKE, HQC, McEliece) as well as NTRU, Streamlined NTRU Prime, and NTRU LPRrime. Recent attacks have shown in this context that side-channel leakage of sampling methods can be exploited for key recoveries. While countermeasures regarding such timing attacks have already been presented, still, there is no comprehensive work covering solutions that are also secure against power side channels.&lt;/p&gt;</description>
     </item>
   </channel>

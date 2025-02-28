@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BDD on Jan Richter-Brockmann</title>
-    <link>http://localhost:1313/tags/bdd/</link>
+    <link>https://jaribro.de/tags/bdd/</link>
     <description>Recent content in BDD on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/bdd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaribro.de/tags/bdd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer-aided Verification for Countermeasures against Physical Attacks.</title>
-      <link>http://localhost:1313/publications/fomsess/</link>
+      <link>https://jaribro.de/publications/fomsess/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/fomsess/</guid>
+      <guid>https://jaribro.de/publications/fomsess/</guid>
       <description>&lt;p&gt;Physical attacks pose a serious threat to hardware implementations of cryptographic algorithms. More precisely, the power consumption acquired during a cryptographic operation on a target hardware device in general leaks information about the processed secret key material. Additionally, an adversary who is capable to inject faults in an ongoing encryption or decryption processes can utilize the faulty ciphertexts or plaintexts to extract information about the applied secret key.&lt;/p&gt;&#xA;&lt;p&gt;Hence, over the last two decades a plethora of countermeasures have been proposed to thwart these attacks individually. However, powerful attackers could combine both attack vectors such that combined protection mechanisms are required. Even for experienced designers, the implementation of such countermeasures is an error-prone and tedious task and practical evaluations are expensive and time-consuming.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Computer-aided Verification for Countermeasures against Physical Attacks.</title>
-      <link>http://localhost:1313/publications/steve/</link>
+      <link>https://jaribro.de/publications/steve/</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/steve/</guid>
+      <guid>https://jaribro.de/publications/steve/</guid>
       <description>&lt;p&gt;This talk covers the computer-aided verification of countermeasures against side-channel and fault-injection attacks. It mainly introduces our verification tool &lt;a href=&#34;https://github.com/Chair-for-Security-Engineering/VERICA&#34;&gt;VERICA&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Secure and Efficient Hardware Implementations for Modern Cryptography.</title>
-      <link>http://localhost:1313/publications/dissertation/</link>
+      <link>https://jaribro.de/publications/dissertation/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/dissertation/</guid>
+      <guid>https://jaribro.de/publications/dissertation/</guid>
       <description>&lt;p&gt;In our contemporary life, digital infrastructure plays a crucial role and it is almost impossible&#xA;to imagine a modern world without the advantages provided by highly advanced technology.&#xA;Due to the influence of this infrastructure on so many areas of our life, robust, reliable, and&#xA;secure systems are necessary. Moreover, this includes performing any kind of communication&#xA;encrypted avoiding misuse of information and protecting data integrity. Creating an environ-&#xA;ment of encrypted communication became even more important over the last years since many&#xA;systems are connected including a huge amount of embedded devices. Therefore, underlying&#xA;cryptographic algorithms need to be implemented on highly diverse platforms including mi-&#xA;crocontrollers, Field-Programmable Gate Arrays (FPGAs), and Application-Specific Integrated&#xA;Circuits (ASICs).&lt;/p&gt;</description>
     </item>
   </channel>

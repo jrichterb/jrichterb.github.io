@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Random Probing Model on Jan Richter-Brockmann</title>
-    <link>http://localhost:1313/tags/random-probing-model/</link>
+    <link>https://jaribro.de/tags/random-probing-model/</link>
     <description>Recent content in Random Probing Model on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/random-probing-model/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaribro.de/tags/random-probing-model/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formal Definition and Verification for Combined Random Fault and Random Probing Security.</title>
-      <link>http://localhost:1313/publications/random-combined-model/</link>
+      <link>https://jaribro.de/publications/random-combined-model/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/random-combined-model/</guid>
+      <guid>https://jaribro.de/publications/random-combined-model/</guid>
       <description>&lt;p&gt;In our highly digitalized world, an adversary is not constrained to purely digital attacks but can monitor or influence the physical execution environment of a target computing device. Such side-channel or fault-injection analysis poses a significant threat to otherwise secure cryptographic implementations. Hence, it is important to consider additional adversarial capabilities when analyzing the security of cryptographic implementations besides the default black-box model. For side-channel analysis, this is done by providing the adversary with knowledge of some internal values, while for fault-injection analysis the capabilities of the adversaries include manipulation of some internal values.&lt;/p&gt;</description>
     </item>
   </channel>

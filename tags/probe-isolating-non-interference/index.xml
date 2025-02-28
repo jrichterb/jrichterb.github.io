@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Probe-Isolating Non-Interference on Jan Richter-Brockmann</title>
-    <link>http://localhost:1313/tags/probe-isolating-non-interference/</link>
+    <link>https://jaribro.de/tags/probe-isolating-non-interference/</link>
     <description>Recent content in Probe-Isolating Non-Interference on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/probe-isolating-non-interference/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaribro.de/tags/probe-isolating-non-interference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CINI MINIS: Domain Isolation for Fault and Combined Security.</title>
-      <link>http://localhost:1313/publications/cini-minis/</link>
+      <link>https://jaribro.de/publications/cini-minis/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/cini-minis/</guid>
+      <guid>https://jaribro.de/publications/cini-minis/</guid>
       <description>&lt;p&gt;Observation and manipulation of physical characteristics are well-known and powerful threats to cryptographic devices. While countermeasures against passive side-channel and active fault-injection attacks are well understood individually, combined attacks, i.e., the combination of fault injection and side-channel analysis, is a mostly unexplored area. Naturally, the complexity of analysis and secure construction increases with the sophistication of the adversary, making the combined scenario especially challenging. To tackle complexity, the side-channel community has converged on the construction of small building blocks, which maintain security properties even when composed. In this regard, Probe-Isolating Non-Interference (PINI) is a widely used notion for secure composition in the presence of side-channel attacks due to its efficiency and elegance. In this work, we transfer the core ideas behind PINI to the context of fault and combined security and, from that, construct the first trivially composable gadgets in the presence of a combined adversary.&lt;/p&gt;</description>
     </item>
   </channel>

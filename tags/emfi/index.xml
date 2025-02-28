@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EMFI on Jan Richter-Brockmann</title>
-    <link>http://localhost:1313/tags/emfi/</link>
+    <link>https://jaribro.de/tags/emfi/</link>
     <description>Recent content in EMFI on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/emfi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaribro.de/tags/emfi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Revisiting Fault Adversary Models - Hardware Faults in Theory and Practice.</title>
-      <link>http://localhost:1313/publications/fault-model/</link>
+      <link>https://jaribro.de/publications/fault-model/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/fault-model/</guid>
+      <guid>https://jaribro.de/publications/fault-model/</guid>
       <description>&lt;p&gt;Physical attacks are serious threats to hardware implementations of any strong cryptographic primitive. Particularly, fault injection attack is considered as a powerful technique to successfully attack embedded cryptographic implementations since various fault injection mechanisms from simple clock glitches to more advanced techniques like laser fault injection can lead to devastating attacks, even with just a single successfully injected fault. Given these critical attack vectors, researchers in academia and industry came up with a long list of dedicated countermeasures to thwart such attacks.&lt;/p&gt;</description>
     </item>
   </channel>

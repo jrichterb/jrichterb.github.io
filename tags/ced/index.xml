@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CED on Jan Richter-Brockmann</title>
-    <link>http://localhost:1313/tags/ced/</link>
+    <link>https://jaribro.de/tags/ced/</link>
     <description>Recent content in CED on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ced/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaribro.de/tags/ced/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Concurrent Error Detection Revisited: Hardware Protection against Fault and Side-channel Attacks.</title>
-      <link>http://localhost:1313/publications/orthogonal-codes/</link>
+      <link>https://jaribro.de/publications/orthogonal-codes/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/orthogonal-codes/</guid>
+      <guid>https://jaribro.de/publications/orthogonal-codes/</guid>
       <description>&lt;p&gt;Fault Injection Analysis (FIA) and Side-Channel Analysis (SCA) are considered among the most serious threats to cryptographic implementations and require dedicated countermeasures to ensure protection through the entire life-cycle of the implementations.&lt;/p&gt;&#xA;&lt;p&gt;In this work, our contribution is twofold. First, we present a novel orthogonal layout of linear Error-Correcting Codes (ECCs) to adjust classical Concurrent Error Detection (CED) to an adversary model that assumes precisely induced single-bit faults which, with a certain non-negligible probability, will affect adjacent bits. Second, we combine our orthogonal error correction technique with a state-of-the-art SCA protection mechanism to demonstrate resistance against both threats.&lt;/p&gt;</description>
     </item>
   </channel>

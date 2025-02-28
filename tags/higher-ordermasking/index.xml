@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Higher-OrderMasking on Jan Richter-Brockmann</title>
-    <link>http://localhost:1313/tags/higher-ordermasking/</link>
+    <link>https://jaribro.de/tags/higher-ordermasking/</link>
     <description>Recent content in Higher-OrderMasking on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/higher-ordermasking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaribro.de/tags/higher-ordermasking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gadget-based Masking of Streamlined NTRU Prime Decapsulation in Hardware.</title>
-      <link>http://localhost:1313/publications/masked-ntrup/</link>
+      <link>https://jaribro.de/publications/masked-ntrup/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/masked-ntrup/</guid>
+      <guid>https://jaribro.de/publications/masked-ntrup/</guid>
       <description>&lt;p&gt;Streamlined NTRU Prime is a lattice-based Key Encapsulation Mechanism (KEM) that is, together with X25519, the default algorithm in OpenSSH 9. Based on lattice assumptions, it is assumed to be secure also against attackers with access to&amp;lt; large-scale quantum computers. While Post-Quantum Cryptography (PQC) schemes have been subject to extensive research in recent years, challenges remain with respect to protection mechanisms against attackers that have additional side-channel information, such as the power consumption of a device processing secret data. As a countermeasure to such attacks, masking has been shown to be a promising and effective approach. For public-key schemes, including any recent PQC schemes, usually, a mixture of Boolean and arithmetic techniques is applied on an algorithmic level. Our generic hardware implementation of Streamlined NTRU Prime decapsulation, however, follows an idea that until now was assumed to be solely applicable efficiently to symmetric cryptography: gadget-based masking. The hardware design is transformed into a secure implementation by replacing each gate with a composable secure gadget that operates on uniform random shares of secret values. In our work, we show the feasibility of applying this approach also to PQC schemes and present the first Public-Key Cryptography (PKC) – pre- and post-quantum – implementation masked with the gadget-based approach considering several trade-offs and design choices. By the nature of gadget-based masking, the implementation can be instantiated at arbitrary masking order. We synthesize our implementation both for Artix-7 Field-Programmable Gate Arrays (FPGAs) and 45 nm Application-Specific Integrated Circuits (ASICs), yielding practically feasible results regarding the area, randomness requirement, and latency. We verify the side-channel security of our implementation using formal verification on the one hand, and practically using Test Vector Leakage Assessment (TVLA) on the other. Finally, we also analyze the applicability of our concept to Kyber and Dilithium, which will be standardized by the National Institute of Standards and Technology (NIST).&lt;/p&gt;</description>
     </item>
   </channel>

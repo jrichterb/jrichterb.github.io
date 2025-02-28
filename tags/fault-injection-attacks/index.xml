@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fault-Injection Attacks on Jan Richter-Brockmann</title>
-    <link>http://localhost:1313/tags/fault-injection-attacks/</link>
+    <link>https://jaribro.de/tags/fault-injection-attacks/</link>
     <description>Recent content in Fault-Injection Attacks on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Sep 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/fault-injection-attacks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaribro.de/tags/fault-injection-attacks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FIVER - Robust Verification of Countermeasures against Fault Injections.</title>
-      <link>http://localhost:1313/publications/fiver/</link>
+      <link>https://jaribro.de/publications/fiver/</link>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/fiver/</guid>
+      <guid>https://jaribro.de/publications/fiver/</guid>
       <description>&lt;p&gt;Fault Injection Analysis is seen as a powerful attack against implementations of cryptographic algorithms. Over the last two decades, researchers proposed a plethora of countermeasures to secure such implementations. However, the design process and implementation are still error-prone, complex, and manual tasks which require long-standing experience in hardware design and physical security. Moreover, the validation of the claimed security is often only done by empirical testing in a very late stage of the design process. To prevent such empirical testing strategies, approaches based on formal verification are applied instead providing the designer early feedback.&lt;/p&gt;</description>
     </item>
   </channel>

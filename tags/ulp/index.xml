@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ULP on Jan Richter-Brockmann</title>
-    <link>http://localhost:1313/tags/ulp/</link>
+    <link>https://jaribro.de/tags/ulp/</link>
     <description>Recent content in ULP on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ulp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaribro.de/tags/ulp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dependability of Future Edge-AI Processors: Pandora&#39;s Box.</title>
-      <link>http://localhost:1313/publications/convolve-01/</link>
+      <link>https://jaribro.de/publications/convolve-01/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/convolve-01/</guid>
+      <guid>https://jaribro.de/publications/convolve-01/</guid>
       <description>&lt;p&gt;This paper addresses one of the directions of the HORIZON EU CONVOLVE project being dependability of smart edge processors based on computation-in-memory and emerging memristor devices such as RRAM. It discusses how how this alternative computing paradigm will change the way we used to do manufacturing test. In addition, it describes how these emerging devices inherently suffering from many non-idealities are calling for new solutions in order to ensure accurate and reliable edge computing. Moreover, the paper also covers the security aspects for future edge processors and shows the challenges and the future directions.&lt;/p&gt;</description>
     </item>
   </channel>

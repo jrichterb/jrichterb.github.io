@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security Verification on Jan Richter-Brockmann</title>
-    <link>http://localhost:1313/tags/security-verification/</link>
+    <link>https://jaribro.de/tags/security-verification/</link>
     <description>Recent content in Security Verification on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/security-verification/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaribro.de/tags/security-verification/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>INDIANA - Verifying (Random) Probing Security through Indistinguishability Analysis.</title>
-      <link>http://localhost:1313/publications/indiana/</link>
+      <link>https://jaribro.de/publications/indiana/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/indiana/</guid>
+      <guid>https://jaribro.de/publications/indiana/</guid>
       <description>&lt;p&gt;While masking is a widely used defense against passive side-channel attacks, its secure implementation in hardware continues to be a manual, complex, and error-prone process.&lt;/p&gt;&#xA;&lt;p&gt;This paper introduces INDIANA, a comprehensive security verification methodology for hardware masking. Our results include a hardware verification tool, enabling a complete analysis of simulation-based security in the glitch-extended probing model and intra-cycle estimations for leakage probabilities in the random probing model. Notably, INDIANA is the first framework to analyze arbitrary masked circuits in both models, even at the scale of full SPN cipher rounds (e.g., AES), while delivering exact verification results. To achieve accurate and comprehensive verification, we propose a partitionable probing distinguisher that allows for fast validation of probe tuples, surpassing current methods that rely on statistical independence. Furthermore, our approach naturally supports extensions to the random probing model by utilizing Fast Fourier-Hadamard Transformations (FHTs).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VERICA - Verification of Combined Attacks: Automated formal verification of security against simultaneous information leakage and tampering.</title>
+      <link>https://jaribro.de/publications/verica/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaribro.de/publications/verica/</guid>
+      <description>&lt;p&gt;Physical attacks, including passive Side-Channel Analysis and active Fault Injection Analysis, are considered among the most powerful threats against physical cryptographic implementations. These attacks are well known and research provides many specialized countermeasures to protect cryptographic implementations against them. Still, only a limited number of combined countermeasures, i.e., countermeasures that protect implementations against multiple attacks simultaneously, were proposed in the past. Due to increasing complexity and reciprocal effects, design of efficient and reliable combined countermeasures requires longstanding expertise in hardware design and security. With the help of formal security specifications and adversary models, automated verification can streamline development cycles, increase quality, and facilitate development of robust cryptographic implementations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FIVER - Robust Verification of Countermeasures against Fault Injections.</title>
+      <link>https://jaribro.de/publications/fiver/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaribro.de/publications/fiver/</guid>
+      <description>&lt;p&gt;Fault Injection Analysis is seen as a powerful attack against implementations of cryptographic algorithms. Over the last two decades, researchers proposed a plethora of countermeasures to secure such implementations. However, the design process and implementation are still error-prone, complex, and manual tasks which require long-standing experience in hardware design and physical security. Moreover, the validation of the claimed security is often only done by empirical testing in a very late stage of the design process. To prevent such empirical testing strategies, approaches based on formal verification are applied instead providing the designer early feedback.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
