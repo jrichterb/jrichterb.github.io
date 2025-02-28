@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fault Modeling on Jan Richter-Brockmann</title>
-    <link>https://jaribro.de/tags/fault-modeling/</link>
+    <link>http://localhost:1313/tags/fault-modeling/</link>
     <description>Recent content in Fault Modeling on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jaribro.de/tags/fault-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/fault-modeling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Revisiting Fault Adversary Models - Hardware Faults in Theory and Practice.</title>
-      <link>https://jaribro.de/publications/fault-model/</link>
+      <link>http://localhost:1313/publications/fault-model/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/publications/fault-model/</guid>
+      <guid>http://localhost:1313/publications/fault-model/</guid>
       <description>&lt;p&gt;Physical attacks are serious threats to hardware implementations of any strong cryptographic primitive. Particularly, fault injection attack is considered as a powerful technique to successfully attack embedded cryptographic implementations since various fault injection mechanisms from simple clock glitches to more advanced techniques like laser fault injection can lead to devastating attacks, even with just a single successfully injected fault. Given these critical attack vectors, researchers in academia and industry came up with a long list of dedicated countermeasures to thwart such attacks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Secure and Efficient Hardware Implementations for Modern Cryptography.</title>
-      <link>https://jaribro.de/publications/dissertation/</link>
+      <link>http://localhost:1313/publications/dissertation/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/publications/dissertation/</guid>
+      <guid>http://localhost:1313/publications/dissertation/</guid>
       <description>&lt;p&gt;In our contemporary life, digital infrastructure plays a crucial role and it is almost impossible&#xA;to imagine a modern world without the advantages provided by highly advanced technology.&#xA;Due to the influence of this infrastructure on so many areas of our life, robust, reliable, and&#xA;secure systems are necessary. Moreover, this includes performing any kind of communication&#xA;encrypted avoiding misuse of information and protecting data integrity. Creating an environ-&#xA;ment of encrypted communication became even more important over the last years since many&#xA;systems are connected including a huge amount of embedded devices. Therefore, underlying&#xA;cryptographic algorithms need to be implemented on highly diverse platforms including mi-&#xA;crocontrollers, Field-Programmable Gate Arrays (FPGAs), and Application-Specific Integrated&#xA;Circuits (ASICs).&lt;/p&gt;</description>
     </item>
   </channel>

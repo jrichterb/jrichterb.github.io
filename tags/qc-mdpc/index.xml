@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>QC-MDPC on Jan Richter-Brockmann</title>
-    <link>https://jaribro.de/tags/qc-mdpc/</link>
+    <link>http://localhost:1313/tags/qc-mdpc/</link>
     <description>Recent content in QC-MDPC on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jaribro.de/tags/qc-mdpc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/qc-mdpc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BIKE: Bit Flipping Key Encapsulation</title>
-      <link>https://jaribro.de/publications/bike/</link>
+      <link>http://localhost:1313/publications/bike/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/publications/bike/</guid>
+      <guid>http://localhost:1313/publications/bike/</guid>
       <description>&lt;p&gt;BIKE is a code-based key encapsulation mechanism based on QC-MDPC (Quasi-Cyclic Moderate Density Parity-Check) codes submitted to the &lt;a href=&#34;https://csrc.nist.gov/Projects/Post-Quantum-Cryptography&#34;&gt;NIST Post-Quantum Cryptography Standardization Process&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Racing BIKE: Improved Polynomial Multiplication and Inversion in Hardware.</title>
-      <link>https://jaribro.de/publications/racing-bike/</link>
+      <link>http://localhost:1313/publications/racing-bike/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/publications/racing-bike/</guid>
+      <guid>http://localhost:1313/publications/racing-bike/</guid>
       <description>&lt;p&gt;BIKE is a Key Encapsulation Mechanism selected as an alternate candidate in NIST’s PQC standardization process, in which performance plays a signiﬁcant role in the third round. This paper presents FPGA implementations of BIKE with the best area-time performance reported in literature. We optimize two key arithmetic operations, which are the sparse polynomial multiplication and the polynomial inversion. Our sparse multiplier achieves time-constancy for sparse polynomials of indeﬁnite Hamming weight used in BIKE’s encapsulation. The polynomial inversion is based on the extended Euclidean algorithm, which is unprecedented in current BIKE implementations. Our optimized design results in a 5.5 times faster key generation compared to previous implementations based on Fermat’s little theorem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Folding BIKE: Scalable Hardware Implementation for Reconfigurable Devices.</title>
-      <link>https://jaribro.de/publications/folding-bike/</link>
+      <link>http://localhost:1313/publications/folding-bike/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/publications/folding-bike/</guid>
+      <guid>http://localhost:1313/publications/folding-bike/</guid>
       <description>&lt;p&gt;Contemporary digital infrastructures and systems use and trust PKC to exchange keys over insecure communication channels. With the development and progress in the research field of quantum computers, well established schemes like RSA and ECC are more and more threatened. The urgent demand to find and standardize new schemes - which are secure in a post-quantum world - was also realized by the NIST which announced a PQC Standardization Project in 2017. Recently, the round three candidates were announced and one of the alternate candidates is the KEM scheme BIKE.&lt;/p&gt;</description>
     </item>
   </channel>

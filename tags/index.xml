@@ -2,465 +2,465 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jan Richter-Brockmann</title>
-    <link>https://jaribro.de/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Jan Richter-Brockmann</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jaribro.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Combined Analysis</title>
-      <link>https://jaribro.de/tags/combined-analysis/</link>
+      <link>http://localhost:1313/tags/combined-analysis/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/combined-analysis/</guid>
+      <guid>http://localhost:1313/tags/combined-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>IronMask</title>
-      <link>https://jaribro.de/tags/ironmask/</link>
+      <link>http://localhost:1313/tags/ironmask/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/ironmask/</guid>
+      <guid>http://localhost:1313/tags/ironmask/</guid>
       <description></description>
     </item>
     <item>
       <title>Physical Security</title>
-      <link>https://jaribro.de/tags/physical-security/</link>
+      <link>http://localhost:1313/tags/physical-security/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/physical-security/</guid>
+      <guid>http://localhost:1313/tags/physical-security/</guid>
       <description></description>
     </item>
     <item>
       <title>Random Fault Model</title>
-      <link>https://jaribro.de/tags/random-fault-model/</link>
+      <link>http://localhost:1313/tags/random-fault-model/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/random-fault-model/</guid>
+      <guid>http://localhost:1313/tags/random-fault-model/</guid>
       <description></description>
     </item>
     <item>
       <title>Random Probing Model</title>
-      <link>https://jaribro.de/tags/random-probing-model/</link>
+      <link>http://localhost:1313/tags/random-probing-model/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/random-probing-model/</guid>
+      <guid>http://localhost:1313/tags/random-probing-model/</guid>
       <description></description>
     </item>
     <item>
       <title>VERICA</title>
-      <link>https://jaribro.de/tags/verica/</link>
+      <link>http://localhost:1313/tags/verica/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/verica/</guid>
+      <guid>http://localhost:1313/tags/verica/</guid>
       <description></description>
     </item>
     <item>
       <title>BDD</title>
-      <link>https://jaribro.de/tags/bdd/</link>
+      <link>http://localhost:1313/tags/bdd/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/bdd/</guid>
+      <guid>http://localhost:1313/tags/bdd/</guid>
       <description></description>
     </item>
     <item>
       <title>Computer-Aided Verification</title>
-      <link>https://jaribro.de/tags/computer-aided-verification/</link>
+      <link>http://localhost:1313/tags/computer-aided-verification/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/computer-aided-verification/</guid>
+      <guid>http://localhost:1313/tags/computer-aided-verification/</guid>
       <description></description>
     </item>
     <item>
       <title>Fault-Injection Analysis</title>
-      <link>https://jaribro.de/tags/fault-injection-analysis/</link>
+      <link>http://localhost:1313/tags/fault-injection-analysis/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/fault-injection-analysis/</guid>
+      <guid>http://localhost:1313/tags/fault-injection-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Side-Channel Analysis</title>
-      <link>https://jaribro.de/tags/side-channel-analysis/</link>
+      <link>http://localhost:1313/tags/side-channel-analysis/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/side-channel-analysis/</guid>
+      <guid>http://localhost:1313/tags/side-channel-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>ASIC</title>
-      <link>https://jaribro.de/tags/asic/</link>
+      <link>http://localhost:1313/tags/asic/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/asic/</guid>
+      <guid>http://localhost:1313/tags/asic/</guid>
       <description></description>
     </item>
     <item>
       <title>Consolidating Masking Schemes</title>
-      <link>https://jaribro.de/tags/consolidating-masking-schemes/</link>
+      <link>http://localhost:1313/tags/consolidating-masking-schemes/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/consolidating-masking-schemes/</guid>
+      <guid>http://localhost:1313/tags/consolidating-masking-schemes/</guid>
       <description></description>
     </item>
     <item>
       <title>FPGA</title>
-      <link>https://jaribro.de/tags/fpga/</link>
+      <link>http://localhost:1313/tags/fpga/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/fpga/</guid>
+      <guid>http://localhost:1313/tags/fpga/</guid>
       <description></description>
     </item>
     <item>
       <title>Gadget-Based Masking</title>
-      <link>https://jaribro.de/tags/gadget-based-masking/</link>
+      <link>http://localhost:1313/tags/gadget-based-masking/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/gadget-based-masking/</guid>
+      <guid>http://localhost:1313/tags/gadget-based-masking/</guid>
       <description></description>
     </item>
     <item>
       <title>Hardware Security</title>
-      <link>https://jaribro.de/tags/hardware-security/</link>
+      <link>http://localhost:1313/tags/hardware-security/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/hardware-security/</guid>
+      <guid>http://localhost:1313/tags/hardware-security/</guid>
       <description></description>
     </item>
     <item>
       <title>Higher-OrderMasking</title>
-      <link>https://jaribro.de/tags/higher-ordermasking/</link>
+      <link>http://localhost:1313/tags/higher-ordermasking/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/higher-ordermasking/</guid>
+      <guid>http://localhost:1313/tags/higher-ordermasking/</guid>
       <description></description>
     </item>
     <item>
       <title>Masking</title>
-      <link>https://jaribro.de/tags/masking/</link>
+      <link>http://localhost:1313/tags/masking/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/masking/</guid>
+      <guid>http://localhost:1313/tags/masking/</guid>
       <description></description>
     </item>
     <item>
       <title>PQC</title>
-      <link>https://jaribro.de/tags/pqc/</link>
+      <link>http://localhost:1313/tags/pqc/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/pqc/</guid>
+      <guid>http://localhost:1313/tags/pqc/</guid>
       <description></description>
     </item>
     <item>
       <title>Streamlined NTRU Prime</title>
-      <link>https://jaribro.de/tags/streamlined-ntru-prime/</link>
+      <link>http://localhost:1313/tags/streamlined-ntru-prime/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/streamlined-ntru-prime/</guid>
+      <guid>http://localhost:1313/tags/streamlined-ntru-prime/</guid>
       <description></description>
     </item>
     <item>
       <title>Threshold Implementation</title>
-      <link>https://jaribro.de/tags/threshold-implementation/</link>
+      <link>http://localhost:1313/tags/threshold-implementation/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/threshold-implementation/</guid>
+      <guid>http://localhost:1313/tags/threshold-implementation/</guid>
       <description></description>
     </item>
     <item>
       <title>CINI MINIS</title>
-      <link>https://jaribro.de/tags/cini-minis/</link>
+      <link>http://localhost:1313/tags/cini-minis/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/cini-minis/</guid>
+      <guid>http://localhost:1313/tags/cini-minis/</guid>
       <description></description>
     </item>
     <item>
       <title>Combined Attacks</title>
-      <link>https://jaribro.de/tags/combined-attacks/</link>
+      <link>http://localhost:1313/tags/combined-attacks/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/combined-attacks/</guid>
+      <guid>http://localhost:1313/tags/combined-attacks/</guid>
       <description></description>
     </item>
     <item>
       <title>Gadgets</title>
-      <link>https://jaribro.de/tags/gadgets/</link>
+      <link>http://localhost:1313/tags/gadgets/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/gadgets/</guid>
+      <guid>http://localhost:1313/tags/gadgets/</guid>
       <description></description>
     </item>
     <item>
       <title>Approximate Computing</title>
-      <link>https://jaribro.de/tags/approximate-computing/</link>
+      <link>http://localhost:1313/tags/approximate-computing/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/approximate-computing/</guid>
+      <guid>http://localhost:1313/tags/approximate-computing/</guid>
       <description></description>
     </item>
     <item>
       <title>Compiler Stack</title>
-      <link>https://jaribro.de/tags/compiler-stack/</link>
+      <link>http://localhost:1313/tags/compiler-stack/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/compiler-stack/</guid>
+      <guid>http://localhost:1313/tags/compiler-stack/</guid>
       <description></description>
     </item>
     <item>
       <title>DSE</title>
-      <link>https://jaribro.de/tags/dse/</link>
+      <link>http://localhost:1313/tags/dse/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/dse/</guid>
+      <guid>http://localhost:1313/tags/dse/</guid>
       <description></description>
     </item>
     <item>
       <title>Dynamic DL</title>
-      <link>https://jaribro.de/tags/dynamic-dl/</link>
+      <link>http://localhost:1313/tags/dynamic-dl/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/dynamic-dl/</guid>
+      <guid>http://localhost:1313/tags/dynamic-dl/</guid>
       <description></description>
     </item>
     <item>
       <title>Edge-AI</title>
-      <link>https://jaribro.de/tags/edge-ai/</link>
+      <link>http://localhost:1313/tags/edge-ai/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/edge-ai/</guid>
+      <guid>http://localhost:1313/tags/edge-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Memristor</title>
-      <link>https://jaribro.de/tags/memristor/</link>
+      <link>http://localhost:1313/tags/memristor/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/memristor/</guid>
+      <guid>http://localhost:1313/tags/memristor/</guid>
       <description></description>
     </item>
     <item>
       <title>SoC</title>
-      <link>https://jaribro.de/tags/soc/</link>
+      <link>http://localhost:1313/tags/soc/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/soc/</guid>
+      <guid>http://localhost:1313/tags/soc/</guid>
       <description></description>
     </item>
     <item>
       <title>ULP</title>
-      <link>https://jaribro.de/tags/ulp/</link>
+      <link>http://localhost:1313/tags/ulp/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/ulp/</guid>
+      <guid>http://localhost:1313/tags/ulp/</guid>
       <description></description>
     </item>
     <item>
       <title>Cortex-M4</title>
-      <link>https://jaribro.de/tags/cortex-m4/</link>
+      <link>http://localhost:1313/tags/cortex-m4/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/cortex-m4/</guid>
+      <guid>http://localhost:1313/tags/cortex-m4/</guid>
       <description></description>
     </item>
     <item>
       <title>Fixed Weight Polynomial Sampling</title>
-      <link>https://jaribro.de/tags/fixed-weight-polynomial-sampling/</link>
+      <link>http://localhost:1313/tags/fixed-weight-polynomial-sampling/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/fixed-weight-polynomial-sampling/</guid>
+      <guid>http://localhost:1313/tags/fixed-weight-polynomial-sampling/</guid>
       <description></description>
     </item>
     <item>
       <title>Higher-Order Masking</title>
-      <link>https://jaribro.de/tags/higher-order-masking/</link>
+      <link>http://localhost:1313/tags/higher-order-masking/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/higher-order-masking/</guid>
+      <guid>http://localhost:1313/tags/higher-order-masking/</guid>
       <description></description>
     </item>
     <item>
       <title>Adversary Model</title>
-      <link>https://jaribro.de/tags/adversary-model/</link>
+      <link>http://localhost:1313/tags/adversary-model/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/adversary-model/</guid>
+      <guid>http://localhost:1313/tags/adversary-model/</guid>
       <description></description>
     </item>
     <item>
       <title>Clock Glitch</title>
-      <link>https://jaribro.de/tags/clock-glitch/</link>
+      <link>http://localhost:1313/tags/clock-glitch/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/clock-glitch/</guid>
+      <guid>http://localhost:1313/tags/clock-glitch/</guid>
       <description></description>
     </item>
     <item>
       <title>EMFI</title>
-      <link>https://jaribro.de/tags/emfi/</link>
+      <link>http://localhost:1313/tags/emfi/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/emfi/</guid>
+      <guid>http://localhost:1313/tags/emfi/</guid>
       <description></description>
     </item>
     <item>
       <title>Fault Modeling</title>
-      <link>https://jaribro.de/tags/fault-modeling/</link>
+      <link>http://localhost:1313/tags/fault-modeling/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/fault-modeling/</guid>
+      <guid>http://localhost:1313/tags/fault-modeling/</guid>
       <description></description>
     </item>
     <item>
       <title>LFI</title>
-      <link>https://jaribro.de/tags/lfi/</link>
+      <link>http://localhost:1313/tags/lfi/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/lfi/</guid>
+      <guid>http://localhost:1313/tags/lfi/</guid>
       <description></description>
     </item>
     <item>
       <title>Voltage Glitch</title>
-      <link>https://jaribro.de/tags/voltage-glitch/</link>
+      <link>http://localhost:1313/tags/voltage-glitch/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/voltage-glitch/</guid>
+      <guid>http://localhost:1313/tags/voltage-glitch/</guid>
       <description></description>
     </item>
     <item>
       <title>BIKE</title>
-      <link>https://jaribro.de/tags/bike/</link>
+      <link>http://localhost:1313/tags/bike/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/bike/</guid>
+      <guid>http://localhost:1313/tags/bike/</guid>
       <description></description>
     </item>
     <item>
       <title>Combined Countermeasures</title>
-      <link>https://jaribro.de/tags/combined-countermeasures/</link>
+      <link>http://localhost:1313/tags/combined-countermeasures/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/combined-countermeasures/</guid>
+      <guid>http://localhost:1313/tags/combined-countermeasures/</guid>
       <description></description>
     </item>
     <item>
       <title>Error-Correction Codes</title>
-      <link>https://jaribro.de/tags/error-correction-codes/</link>
+      <link>http://localhost:1313/tags/error-correction-codes/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/error-correction-codes/</guid>
+      <guid>http://localhost:1313/tags/error-correction-codes/</guid>
       <description></description>
     </item>
     <item>
       <title>Fault Verification</title>
-      <link>https://jaribro.de/tags/fault-verification/</link>
+      <link>http://localhost:1313/tags/fault-verification/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/fault-verification/</guid>
+      <guid>http://localhost:1313/tags/fault-verification/</guid>
       <description></description>
     </item>
     <item>
       <title>Probe-Isolating Non-Interference</title>
-      <link>https://jaribro.de/tags/probe-isolating-non-interference/</link>
+      <link>http://localhost:1313/tags/probe-isolating-non-interference/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/probe-isolating-non-interference/</guid>
+      <guid>http://localhost:1313/tags/probe-isolating-non-interference/</guid>
       <description></description>
     </item>
     <item>
       <title>NIST</title>
-      <link>https://jaribro.de/tags/nist/</link>
+      <link>http://localhost:1313/tags/nist/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/nist/</guid>
+      <guid>http://localhost:1313/tags/nist/</guid>
       <description></description>
     </item>
     <item>
       <title>QC-MDPC</title>
-      <link>https://jaribro.de/tags/qc-mdpc/</link>
+      <link>http://localhost:1313/tags/qc-mdpc/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/qc-mdpc/</guid>
+      <guid>http://localhost:1313/tags/qc-mdpc/</guid>
       <description></description>
     </item>
     <item>
       <title>Polynomial Inversion</title>
-      <link>https://jaribro.de/tags/polynomial-inversion/</link>
+      <link>http://localhost:1313/tags/polynomial-inversion/</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/polynomial-inversion/</guid>
+      <guid>http://localhost:1313/tags/polynomial-inversion/</guid>
       <description></description>
     </item>
     <item>
       <title>Reconfigurable Devices</title>
-      <link>https://jaribro.de/tags/reconfigurable-devices/</link>
+      <link>http://localhost:1313/tags/reconfigurable-devices/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/reconfigurable-devices/</guid>
+      <guid>http://localhost:1313/tags/reconfigurable-devices/</guid>
       <description></description>
     </item>
     <item>
       <title>Computer Aided Security</title>
-      <link>https://jaribro.de/tags/computer-aided-security/</link>
+      <link>http://localhost:1313/tags/computer-aided-security/</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/computer-aided-security/</guid>
+      <guid>http://localhost:1313/tags/computer-aided-security/</guid>
       <description></description>
     </item>
     <item>
       <title>Countermeasures</title>
-      <link>https://jaribro.de/tags/countermeasures/</link>
+      <link>http://localhost:1313/tags/countermeasures/</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/countermeasures/</guid>
+      <guid>http://localhost:1313/tags/countermeasures/</guid>
       <description></description>
     </item>
     <item>
       <title>Physical Attacks</title>
-      <link>https://jaribro.de/tags/physical-attacks/</link>
+      <link>http://localhost:1313/tags/physical-attacks/</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/physical-attacks/</guid>
+      <guid>http://localhost:1313/tags/physical-attacks/</guid>
       <description></description>
     </item>
     <item>
       <title>Fault-Injection Attacks</title>
-      <link>https://jaribro.de/tags/fault-injection-attacks/</link>
+      <link>http://localhost:1313/tags/fault-injection-attacks/</link>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/fault-injection-attacks/</guid>
+      <guid>http://localhost:1313/tags/fault-injection-attacks/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Learning</title>
-      <link>https://jaribro.de/tags/deep-learning/</link>
+      <link>http://localhost:1313/tags/deep-learning/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/deep-learning/</guid>
+      <guid>http://localhost:1313/tags/deep-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Multi-Channel Fusion</title>
-      <link>https://jaribro.de/tags/multi-channel-fusion/</link>
+      <link>http://localhost:1313/tags/multi-channel-fusion/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/multi-channel-fusion/</guid>
+      <guid>http://localhost:1313/tags/multi-channel-fusion/</guid>
       <description></description>
     </item>
     <item>
       <title>CED</title>
-      <link>https://jaribro.de/tags/ced/</link>
+      <link>http://localhost:1313/tags/ced/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/ced/</guid>
+      <guid>http://localhost:1313/tags/ced/</guid>
       <description></description>
     </item>
     <item>
       <title>Combined Countermeasure</title>
-      <link>https://jaribro.de/tags/combined-countermeasure/</link>
+      <link>http://localhost:1313/tags/combined-countermeasure/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/combined-countermeasure/</guid>
+      <guid>http://localhost:1313/tags/combined-countermeasure/</guid>
       <description></description>
     </item>
     <item>
       <title>Error-Correcting Codes</title>
-      <link>https://jaribro.de/tags/error-correcting-codes/</link>
+      <link>http://localhost:1313/tags/error-correcting-codes/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/error-correcting-codes/</guid>
+      <guid>http://localhost:1313/tags/error-correcting-codes/</guid>
       <description></description>
     </item>
     <item>
       <title>LMDPL</title>
-      <link>https://jaribro.de/tags/lmdpl/</link>
+      <link>http://localhost:1313/tags/lmdpl/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/lmdpl/</guid>
+      <guid>http://localhost:1313/tags/lmdpl/</guid>
       <description></description>
     </item>
     <item>
       <title>Hiding</title>
-      <link>https://jaribro.de/tags/hiding/</link>
+      <link>http://localhost:1313/tags/hiding/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/hiding/</guid>
+      <guid>http://localhost:1313/tags/hiding/</guid>
       <description></description>
     </item>
     <item>
       <title>Reconfiguration</title>
-      <link>https://jaribro.de/tags/reconfiguration/</link>
+      <link>http://localhost:1313/tags/reconfiguration/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/reconfiguration/</guid>
+      <guid>http://localhost:1313/tags/reconfiguration/</guid>
       <description></description>
     </item>
     <item>
       <title>Cryptanalysis</title>
-      <link>https://jaribro.de/tags/cryptanalysis/</link>
+      <link>http://localhost:1313/tags/cryptanalysis/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/cryptanalysis/</guid>
+      <guid>http://localhost:1313/tags/cryptanalysis/</guid>
       <description></description>
     </item>
     <item>
       <title>ECM</title>
-      <link>https://jaribro.de/tags/ecm/</link>
+      <link>http://localhost:1313/tags/ecm/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/ecm/</guid>
+      <guid>http://localhost:1313/tags/ecm/</guid>
       <description></description>
     </item>
     <item>
       <title>GPU</title>
-      <link>https://jaribro.de/tags/gpu/</link>
+      <link>http://localhost:1313/tags/gpu/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/gpu/</guid>
+      <guid>http://localhost:1313/tags/gpu/</guid>
       <description></description>
     </item>
     <item>
       <title>Prime Factorization</title>
-      <link>https://jaribro.de/tags/prime-factorization/</link>
+      <link>http://localhost:1313/tags/prime-factorization/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jaribro.de/tags/prime-factorization/</guid>
+      <guid>http://localhost:1313/tags/prime-factorization/</guid>
       <description></description>
     </item>
   </channel>
